@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Asus/Documents/Projects/Mlflow_permit_price_prediction/src/mlruns/701911808985339877/f57a8b0023f442eeb98bc03cc19bc340/artifacts
+end_time: 1749070194774
+entry_point_name: ''
+experiment_id: '701911808985339877'
+lifecycle_stage: active
+run_id: f57a8b0023f442eeb98bc03cc19bc340
+run_name: adaptable-gull-946
+run_uuid: f57a8b0023f442eeb98bc03cc19bc340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749070157148
+status: 3
+tags: []
+user_id: Asus

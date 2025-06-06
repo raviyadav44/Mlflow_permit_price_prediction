@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Asus/Documents/Projects/Mlflow_permit_price_prediction/src/mlruns/160179388424958933/47048e62e2974455a81cd865e5d68c8f/artifacts
+end_time: 1749064456300
+entry_point_name: ''
+experiment_id: '160179388424958933'
+lifecycle_stage: active
+run_id: 47048e62e2974455a81cd865e5d68c8f
+run_name: fold_2
+run_uuid: 47048e62e2974455a81cd865e5d68c8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749064456029
+status: 3
+tags: []
+user_id: Asus

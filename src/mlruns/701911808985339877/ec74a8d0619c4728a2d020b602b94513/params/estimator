@@ -1,0 +1,2 @@
+Pipeline(steps=[('preprocessor', FeaturePreprocessor()),
+                ('regressor', RandomForestRegressor(random_state=42))])

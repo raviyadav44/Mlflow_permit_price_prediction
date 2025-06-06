@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Asus/Documents/Projects/Mlflow_permit_price_prediction/src/mlruns/701911808985339877/3a06def45a004fd59ead183a1b505830/artifacts
+end_time: 1749069993715
+entry_point_name: ''
+experiment_id: '701911808985339877'
+lifecycle_stage: active
+run_id: 3a06def45a004fd59ead183a1b505830
+run_name: intrigued-asp-968
+run_uuid: 3a06def45a004fd59ead183a1b505830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749069956240
+status: 3
+tags: []
+user_id: Asus

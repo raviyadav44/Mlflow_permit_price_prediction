@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1749070773903
+current_stage: None
+description: ''
+last_updated_timestamp: 1749070773903
+name: Random_forest_regressor
+run_id: f38ee0cdfebc4611aa6b0de065c72aaf
+run_link: ''
+source: file:///C:/Users/Asus/Documents/Projects/Mlflow_permit_price_prediction/src/mlruns/701911808985339877/f38ee0cdfebc4611aa6b0de065c72aaf/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Asus/Documents/Projects/Mlflow_permit_price_prediction/src/mlruns/701911808985339877/f38ee0cdfebc4611aa6b0de065c72aaf/artifacts/model
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Asus/Documents/Projects/Mlflow_permit_price_prediction/src/mlruns/701911808985339877/c3d74a1cdc14495c8aeaa7d987fd14cc/artifacts
+end_time: 1749069993715
+entry_point_name: ''
+experiment_id: '701911808985339877'
+lifecycle_stage: active
+run_id: c3d74a1cdc14495c8aeaa7d987fd14cc
+run_name: amusing-lynx-783
+run_uuid: c3d74a1cdc14495c8aeaa7d987fd14cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749069956240
+status: 3
+tags: []
+user_id: Asus

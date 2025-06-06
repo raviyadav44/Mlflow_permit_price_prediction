@@ -1,0 +1,25 @@
+digest: 5e3ce64c
+name: dataset
+profile: '{"num_rows": 33, "num_elements": 726}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "event_max_performers", "required":
+  true}, {"type": "string", "name": "event_type", "required": true}, {"type": "string",
+  "name": "event_entertainment_category", "required": true}, {"type": "string", "name":
+  "event_business_category", "required": true}, {"type": "string", "name": "event_within_company",
+  "required": true}, {"type": "string", "name": "event_industry_type", "required":
+  true}, {"type": "string", "name": "event_emirate", "required": false}, {"type":
+  "string", "name": "event_exhibition", "required": true}, {"type": "string", "name":
+  "ticketing_category", "required": true}, {"type": "string", "name": "ticketing_is_event_free",
+  "required": true}, {"type": "string", "name": "ticketing_is_reg_desk", "required":
+  true}, {"type": "string", "name": "ticketing_is_print_badges", "required": true},
+  {"type": "string", "name": "ticketing_badge_assist", "required": true}, {"type":
+  "string", "name": "ticketing_is_walkin_expect", "required": true}, {"type": "string",
+  "name": "ticketing_selling_option", "required": true}, {"type": "double", "name":
+  "ticketing_is_complementary_pass", "required": true}, {"type": "string", "name":
+  "standardized_venue", "required": true}, {"type": "double", "name": "event_duration_days",
+  "required": true}, {"type": "double", "name": "days_until_event", "required": true},
+  {"type": "double", "name": "event_month", "required": true}, {"type": "double",
+  "name": "event_day_of_week", "required": true}, {"type": "double", "name": "selling_duration_days",
+  "required": true}]}'
+source: '{"tags": {"mlflow.user": "Asus", "mlflow.source.name": ".\\random_forest_experiment.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "df9400406830c955eb4099dd51063d98dff8243e"}}'
+source_type: code

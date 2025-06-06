@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Asus/Documents/Projects/Mlflow_permit_price_prediction/src/mlruns/701911808985339877/5f03b637f0c84f5dbba570519f27fe02/artifacts
+end_time: 1749069999066
+entry_point_name: ''
+experiment_id: '701911808985339877'
+lifecycle_stage: active
+run_id: 5f03b637f0c84f5dbba570519f27fe02
+run_name: hyperparameter_tuning
+run_uuid: 5f03b637f0c84f5dbba570519f27fe02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749069956240
+status: 3
+tags: []
+user_id: Asus

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Asus/Documents/Projects/Mlflow_permit_price_prediction/src/mlruns/247139886387673320/3e0f963f71734fc9b94f82b8cfe87263/artifacts
+end_time: 1749062896063
+entry_point_name: ''
+experiment_id: '247139886387673320'
+lifecycle_stage: active
+run_id: 3e0f963f71734fc9b94f82b8cfe87263
+run_name: calm-croc-110
+run_uuid: 3e0f963f71734fc9b94f82b8cfe87263
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749062896011
+status: 3
+tags: []
+user_id: Asus

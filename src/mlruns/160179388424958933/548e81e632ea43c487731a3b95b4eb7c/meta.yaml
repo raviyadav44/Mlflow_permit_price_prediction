@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Asus/Documents/Projects/Mlflow_permit_price_prediction/src/mlruns/160179388424958933/548e81e632ea43c487731a3b95b4eb7c/artifacts
+deleted_time: 1749067423275
+end_time: 1749064492618
+entry_point_name: ''
+experiment_id: '160179388424958933'
+lifecycle_stage: deleted
+run_id: 548e81e632ea43c487731a3b95b4eb7c
+run_name: delightful-shoat-296
+run_uuid: 548e81e632ea43c487731a3b95b4eb7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749064455795
+status: 4
+tags: []
+user_id: Asus

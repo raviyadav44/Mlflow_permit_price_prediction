@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Asus/Documents/Projects/Mlflow_permit_price_prediction/src/mlruns/160179388424958933/5a5c96859e2c46dfb49584b5e8be3419/artifacts
+deleted_time: 1749067423274
+end_time: 1749067186505
+entry_point_name: ''
+experiment_id: '160179388424958933'
+lifecycle_stage: deleted
+run_id: 5a5c96859e2c46dfb49584b5e8be3419
+run_name: sneaky-koi-323
+run_uuid: 5a5c96859e2c46dfb49584b5e8be3419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749067157120
+status: 4
+tags: []
+user_id: Asus

@@ -1,0 +1,771 @@
+id,first_name,last_name,contact_person,client_company_name,client_trn,client_address_street,client_address_line2,client_city,client_country,client_phone,client_email,event_name,event_website,event_organizer_name,event_max_attendees,event_max_performers,event_max_speakers,event_profile,event_vip,event_fund_raising,event_type,event_audience_type,event_mode,event_entertainment_category,event_business_category,event_within_company,event_organizer_details,event_industry_type,event_start_date,event_end_date,event_venue,event_sub_venue,event_emirate,event_exhibition,ticketing_category,ticketing_is_event_free,ticketing_is_reg_desk,ticketing_is_print_badges,ticketing_badge_assist,ticketing_is_walkin_expect,ticketing_selling_option,ticketing_selling_link,ticketing_category_prices,ticketing_category_sell_estimate,ticketing_is_complementary_pass,ticketing_selling_start_date,ticketing_selling_end_date,ticketing_delegates_data,event_entertainment_theatre_category,event_entertainment_dance_category,event_entertainment_dj_category,event_entertainment_amusement_category,event_entertainment_music_category,event_is_crypto,event_crypto_names,event_beneficial_organisation,event_multi_venue,event_manager,event_owner,created_at,updated_at,Price,Obs
+32,KINJAL,JAIN,9,VIBE,,"STUDIO CITY, DUBAI",,Dubai,Dubai,9.72E+11,jonkris1990@gmail.com,Pfizer photoshoot,,VIBE,18,0,0,"Photoshoot for half day 6-8 hours.
+Social awareness about healthcare and hygiene.",0,no,entertainment,regional,online,theatre,,no,"Kinjal Jain
+Indian
+jonkris1990@gmail.com 
++971544205506",other,5/4/24 6:00,6/4/24 13:00,"Flamingo beach, sunset beach or jumeirah public beach( any 1 location)",Na,Na,no,non_ticketed,yes,no,no,No,no,no,,Na,Na,0.0,5/1/24 0:00,5/2/24 0:00,no,,,,,,,,,,,,4/30/24 7:06,4/30/24 7:06,,Permit is not required
+46,JELFA,FRANCISKU RAJ,4,"zoomlion gulf FZE,",,"Jebel Ali Free Zone,Dubai,UAE.",,DUBAI,United Arab Emirates,508868552,jelfa.raj@zoomlion.com,customer day,,ZOOMLION GULF FZE,348,2,0,"we will have some presentations, videos, 
+the customers are from different company",no,no,business,local,onsite,dance,conference,no,JELFA- INDIA- 0508868552-JELFA.RAJ@ZOOMLION.COM,other,7/15/24 17:00,7/15/24 20:30,SOFITEL THE PLAM,,DUBAI,no,non_ticketed,yes,yes,no,,no,no,,NO TICEKT,NO TICKET,,7/15/24 0:00,7/15/24 0:00,yes,,,,,,,,,,,,6/24/24 7:42,6/24/24 7:42,,Not clear
+62,Bala,P,5,Oddbox Events Organizing and Managing Co. LLC,1.04E+14,"Office no. 43-44, Building of Dubai Municipality, Bur Dubai - Al Fahidi",,Dubai,UAE,9.20E+11,Bala@odd-box.com,Fast food and Cafe convention DXB 2024,,Oddbox,1250,1,0,"B2B event for senior executives from QSR, Cafes, Casual Dining and Cloud Kitchen",No,no,business,international,onsite,,"conference, exhibition, networking",no,"Mini Jacob
+Mini@odd-box.com
++918978171260",other,11/19/24 10:00,11/20/24 21:00,Intercontinental Dubai Festival City,Al Baraha,"Dubai, UAE",yes,free_ticketed,yes,yes,yes,,yes,no,,General Free,,1250.0,7/12/24 11:32,7/12/24 11:32,no,,,,,,,,,,,,7/12/24 11:41,7/12/24 11:41,1770,
+64,Precious,Ohis,4,,,1705 cove Dubai creek Harbour,,Dubai,United Arab emirate,543306616,topinsight7@gmail.com,Emma birthday,,Personal,30,1,0,"1 year old birthday for my daughter 
+It would be Gathering of family and close friends only",,no,entertainment,local,onsite,,,no,"Ighagha precious ohis
++971 54 330 6616",other,7/21/24 15:00,7/21/24 22:00,Sofitel the palm,The library,Dubai,no,non_ticketed,yes,no,no,,no,no,,,,,7/16/24 21:08,7/16/24 21:08,no,,,,,,0.0,,,,,,7/16/24 21:19,7/16/24 21:19,Not clear,Not clear
+66,Rapti,Chakraborty,5,B2B Sales Arrow,,"10-A-5, Parijat Colony","Mahaveer Nagar 3rd, Kota, Rajasthan 324005",Rajasthan,India,7980948467,rapti.c@b2bsalesarrow.com,IQE Connect Dubai,,Infosys,39,1,0,This is an internal event with speakers from within organization presenting details to their clients and internal team.,NO,no,business,regional,onsite,,"meeting, networking",yes,Cannot provide at this point of time,other,10/9/24 9:00,10/9/24 14:00,At a hotel in Dubai Downtown- Yet to be conformed,,Dubai,no,non_ticketed,yes,yes,yes,NO,no,no,,NONE,,,7/19/24 0:00,9/19/24 0:00,no,,,,,,0.0,,,,,,7/19/24 6:30,7/19/24 6:30,,
+67,Karen,Arenas,5,Partnership Network Events,,Ground floor,"Global House, High Street",Crawley,United Kingdom,4.47E+11,karen@pne-uk.com,ISPN ME,,Partnership Network Events,350,1,0,"We ignite positive and impactful change, by fostering continuous innovation, and directly uplifting the sectors we serve through our dynamic event experiences. To do this, we bring together senior leaders from Education to meet with companies who provide solution to what they are struggling with in the sector.",0,no,business,international,onsite,,"conference, exhibition, meeting, networking",no,"Jack Jacob
+jack@pne-uk.com
++44777125927
+
+Dean Finnegan
+dean@pne-uk.com
++447771310308",education,11/19/24 8:00,11/20/24 18:00,Atlantis,,Dubai,yes,free_ticketed,yes,yes,yes,"No, we use CVENT",no,no,,,,,9/1/24 0:00,11/18/24 0:00,yes,,,,,,0.0,,,,,,7/24/24 15:49,7/24/24 15:49,1770,
+68,Sarah,Hales,5,University of Cambridge,,Student Services Centre,New Museums Site,Cambridge CB2 3PT,UK,4.48E+11,sarah.hales@admin.cam.ac.uk,Applying to Cambridge for Postgraduate Studies,,University of Cambridge,29,1,0,"Webinar for potential PG students looking to study at University of Cambridge. Information on how to apply and course options.
+Allowing potential international students to understand and have their questions answered. Expected attendees local and international students currently studying in UAE who are looking to further study overseas",No,no,business,international,onsite,,seminar,no,"Sarah Hales - Senior Regional Manager.
+University of Cambridge
++447707288217
+sarah.hales@admin.cam.ac.uk",education,10/17/24 18:00,10/17/24 21:30,|Dubai Knowledge Park,Conference Room,Dubai,no,free_ticketed,yes,yes,no,,no,no,,Free registration no tickets or cost,,,7/25/24 7:57,7/25/24 7:57,no,,,,,,0.0,,,,,,7/25/24 8:06,7/25/24 8:06,1270,
+76,Algem Joy,Manongsong,5,Gastronomica Middle East,,M01 Garhoud Business Centre,,Dubai,UAE,502994073,algem@gastronomica-me.com,Gastronomica Recruitment Day,,Gastronomica Middle East,100,1,0,"It will be a recruitment day. We are expecting expat applicants in the UAE specifically from Eastern Europe, Kenya, Italian, Spanish, Albania, Romania, and South Africa but we will still accommodate other nationalities who will show up.",,no,business,local,onsite,,conference,no,"Algem Joy Manongsong , algem@gastronomica-me.com 0502994073",other,8/20/24 10:00,8/21/24 18:00,"Sheraton Grand Dubai, Trade Centre",Starlight ballroom,Dubai,yes,free_ticketed,yes,yes,no,Please provide a table for the registration desk outside the ballroom. Badge not required. We will bring a gastronomica logo banner as a standee and will be displayed outside the ballroom.,yes,no,0,0,0,1.0,8/20/24 0:00,8/21/24 0:00,yes,,,,,,0.0,,,,,,7/30/24 6:48,7/30/24 6:48,1770,
+78,Syed Ashar,Ali,5,Cenbiz Global INC,,"203-1261 McEachern Drive, Regina, Saskatchewan, Canada",,"Regina, Saskatchewan,",Canada,971 563631041,syed.ali@cnbizglobal.com,The Global Smart Manufacturing Forum: Beyond 4.0,,Cenbiz Global INC,50,1,0,"The Forum is an event that includes keynote sessions, case study presentations, panel discussions and a thematic workshop dedicated to navigating the landscape of Industry 4.0 and building smart connected factories of the future.
+
+The Event attracts C-Level and operational management delegates and experts from various industries.
+
+Some key topics include; Transforming for Value Through Operational Excellence Programs, Optimizing the Value Of The Digital Workforce, Roadmap for Quality 4.0, Building Digital Factories, Workforce 4.0, Supply Chain Transformation, Sustainable & Clean Manufacturing, and AI for Industrial Transformation.",NO,no,business,international,onsite,,conference,no,"Syed Ashar Ali
+syed.ali@cenbizglobal.com
+00923453153766
+00971563631041",other,8/19/24 8:30,8/20/24 18:03,Millennium Airport Hotel Dubai - UAE,Al Garhoud Ballroom,Dubai-UAE,no,free_ticketed,no,yes,yes,1,no,no,,0,,,8/1/24 9:03,8/1/24 9:03,yes,,,,,,0.0,,,,,,8/1/24 9:16,8/1/24 9:16,1270,
+79,Jobel,Apacible,5,Elevate DMC,,Marasi Drive Business Bay,,Dubai,United Arab Emirates,506970952,jobel.apacible@elevatedmc.com,TPL 70 Elites Convention,,AGEAS HK,70,1,0,"Insurance Top Reseller Meeting 
+Title of each presentation: 
+‚Ä¢	Attaining and Maintaining TOT Production. Ms. Aurora Tancock ‚Äì 30 Aug
+‚Ä¢	Motivational Presentation: John Nichols ‚Äì 30 Aug
+‚Ä¢	Recruiting and Developing High Quality Advisors: Clay Gillespie ‚Äì 31 Aug",,no,business,international,onsite,,meeting,yes,TBA,financials,8/30/24 13:00,8/31/24 18:00,Sheraton Grand Hotel Dubai Sheik Zayed Road,Starlight Ballroom,Dubai,no,non_ticketed,no,yes,yes,not required,no,no,,,,1.0,8/6/24 7:38,8/6/24 7:38,no,,,,,,0.0,,,,,,8/6/24 8:18,8/6/24 8:18,520,
+80,Dennis,Cracknell,5,Crawo Marketing LLC,,"111 NE 1st St, 8th Floor Apartment 88923",,"Miami, Florida",United States,9.72E+11,info@prestige-society.com,Elevate & Connect,,Crawo Marketing LLC,100,1,0,"Purpose of Event:
+Networking and Professional Relationship Building Seminar (German-speaking)
+
+Topics to be Discussed:
+Strategies for effective networking, techniques for building and maintaining professional contacts, practical examples, and exercises.
+
+Benefits of Attending Event:
+Attendees will gain valuable skills in networking, learn proven methods for establishing and nurturing professional relationships, and engage in practical exercises that reinforce these techniques. This seminar is ideal for both self-employed individuals and employees looking to enhance their career opportunities through effective networking. Additionally, we bring people together to connect and meet others, fostering new relationships and opportunities.",no,no,business,international,onsite,,"networking, seminar",no,"Dennis Cracknell, dennis@prestige-society.com, +4915114169166",other,12/6/24 9:00,12/6/24 19:00,"Arjaan by Rotana, Dubai Media City",Skylight,Dubai,yes,paid_free,no,yes,yes,no,no,yes,https://www.tickettailor.com/events/prestigesocietyclub/1331218?,General 499‚Ç¨ - 2.000 AED,,10.0,8/6/24 8:52,12/5/24 0:00,no,,,,,,0.0,,,,,,8/6/24 9:01,8/6/24 9:01,1770,
+81,Dennis,Cracknell,5,Crawo Marketing LLC,,"111 NE 1st St, 8th Floor Apartment 88923",,"Miami, Florida",United States,9.72E+11,info@prestige-society.com,Elevate & Connect,,Crawo Marketing LLC,100,1,0,"Purpose of Event:
+Networking and Professional Relationship Building Seminar (German-speaking)
+
+Topics to be Discussed:
+Strategies for effective networking, techniques for building and maintaining professional contacts, practical examples, and exercises.
+
+Benefits of Attending Event:
+Attendees will gain valuable skills in networking, learn proven methods for establishing and nurturing professional relationships, and engage in practical exercises that reinforce these techniques. This seminar is ideal for both self-employed individuals and employees looking to enhance their career opportunities through effective networking. Additionally, we bring people together to connect and meet others, fostering new relationships and opportunities.",no,no,business,international,onsite,,"networking, seminar",no,"Dennis Cracknell, dennis@prestige-society.com, +4915114169166",other,12/6/24 9:00,12/6/24 19:00,"Arjaan by Rotana, Dubai Media City",Skylight,Dubai,yes,paid_free,no,yes,yes,no,no,yes,https://www.tickettailor.com/events/prestigesocietyclub/1331218?,General 499‚Ç¨ - 2.000 AED,,10.0,8/6/24 8:52,12/5/24 0:00,no,,,,,,0.0,,,,,,8/6/24 9:02,8/6/24 9:02,1770,
+82,Rachel,Black,5,Society of Trust & Estate Practitioners (Arabia Branch) NPIO,,"Unit 11, Level 1",Currency House Tower 2 PO Box 482042,Dubai,United Arab Emirates,33787249124,eighteen7events@outlook.com,STEP Arabia Conference 2024,,LAURACH,250,1,0,"The rapid expansion and success of UAE foundations in structuring local assets prompts an important inquiry: should these structures be lever- aged for organizing international assets as part of succession planning? This question extends beyond local families to encompass foreign families, high net worth individuals and entrepreneurs establishing
+their presence in the MENA region while maintaining investments worldwide.
+During this conference, our focus will be on examining the advantages and challenges associated with utilizing
+MENA regional structures for international asset planning. We will explore how industry leaders navigate these complexities through practical examples. Additionally, we will share with delegates essential updates, particularly concerning the impact of UAE corporate tax on private client structures and CRS compliance.
+We cordially invite you to join us at the foremost wealth planning and networking event in the region.",No,no,business,international,onsite,,"conference, networking",no,"Society of Trust & Estate Practitioners (Arabia Branch) NPIO
+Branch Chairman: Tim Denton
+Tim.denton@habibbank.com
+00 971  50 651 3162",financials,11/10/24 18:00,11/11/24 20:00,Habtoor Palace Hotel,Ballroom,Dubai,yes,paid_free,no,yes,yes,,no,yes,https://www.step.org/events/step-arabia-conference,"STEP Arabia Member US$250 (AED920)
+STEP Member US$450 (AED1650)
+Non-Members US$750 (AED2,750)
+Speaker - Complimentary
+Sponsor - Complimentary
+Committee - Complimentary","STEP Arabia Member 45 delegates
+STEP Member 50 delegates
+Non-Member 40 delegates
+Complimentary 50 delegates",50.0,8/7/24 0:00,11/8/24 0:00,yes,,,,,,0.0,,,,,,8/7/24 9:31,8/7/24 9:31,1770,
+98,client name f,client name l,1,company name,trn number,street adress,street adress 2,city,country,1234567899,example@example.com,event name,https://sample.com,company event,19,50,29,"sample event profile , sample event profile sample event profile sample event profile sample event profile sample event profile sample event profile sample event profile sample event profile sample event profile sample event profile sample event profile sample event profile sample event profile sample event profile sample event profile sample event profile sample event profile sample event profile sample event profile sample event profile",celebruty coloumn,yes,"entertainment, business, sports",local,online,"theatre, awardCeremony, dance, karaokeShow, fashionShow, music","auction, forum, seminar",yes,owner name,"artDesign, , science, materials, automotive",8/14/24 1:20,8/30/24 12:22,venu add,venu add ball room,de,yes,,no,yes,yes,assistance,yes,yes,Ticket Selling Locations/Links. If any,tickt category,Estimated Ticket sale on each category?,321.0,8/27/24 0:00,8/29/24 0:00,yes,"comedy, musical-dancing-play",belly-dance,,,"classical, rock-pop",0.0,,beneficial organisation,other venu name,manageer name,,8/9/24 12:45,8/9/24 12:45,Not clear,
+108,Cloudera,Middle East FZ-LLC,4,Cloudera Middle East FZ-LLC,,"Tower A, Office 3704A, Floor 37, Business Central Towers",,Dubai,United Arab Emirates,9.72E+11,prizkallah@cloudera.com,Cloudera Evolve 2024,https://www.cloudera.com/events/evolve/dubai.html,Cloudera Middle East FZ-LLC,300,15,15,"This annual event is a must-attend for anyone looking to stay ahead in the rapidly evolving world of Data and AI. Uncover the infinite possibilities of Trusted Data Today for Tomorrow's AI. Gain valuable insights from visionary speakers, and data and AI experts. Learn from the real-world experiences of leading-edge companies. Hear future views on the critical role of AI in shaping the future of technology and business.",,no,business,international,onsite,,conference,yes,"Paola Rikzallah, prizkallah@cloudera.com, +971 50 933 2764",informationTechnology,9/11/24 9:00,9/12/24 18:00,Museum of the Future,,Dubai,yes,,partial,yes,yes,"No, we only require badge reader for this if you can help with that.",yes,no,,Not applicable,,,8/12/24 7:27,8/12/24 7:27,yes,,,,,,0.0,,,Level 7 & Auditorium,"Lora Bagsair, lora.bagsair@egg-events.com, +971 56 6899000",,8/12/24 8:03,8/12/24 8:03,1270,
+109,Ranjana,Arora,5,MAVIP MEA L.L.C-FZ,1.01E+14,"Business Center 1, M Floor, Meydan","Hotel, Nad Al Sheba, Dubai, 1111",Dubai,UAE,505952560,ranjana@mavip.com,The Certical Congress,,Redington MEA,150,20,20,"The Vertical Congress Summit and Awards is an unparalleled event that brings together the brightest minds, visionary leaders, and cutting-edge solutions from across industries. This exclusive gathering is designed to foster collaboration, spark innovation, and drive transformative change within the business landscape.",NO,no,"entertainment, business",local,onsite,"awardCeremony, dance","networking, congress",no,"Redington Gulf FZE
+ PO Box:17266, Plot No. S 30902
+ Jebel Ali Free Zone - South Zone
+ Dubai, United Arab Emirates",informationTechnology,8/21/24 14:00,8/21/24 22:00,"RITZ Carlton, DIFC Dubai",Samaya,Dubai,yes,,yes,no,yes,,no,,,,,,8/12/24 7:53,8/12/24 7:53,yes,,modern-dance,,,,0.0,,,,"Ranjana Arora
+ranjana@mavip.com",,8/12/24 10:49,8/12/24 10:49,,
+110,Kiara,Tripathi,2,Kiara,,Test Addresss,,Dubai,UAE,1234567890,test@gmail,New Event,,Test,10,8,9,Test test test test test test teste test test test testestetstestestestestestest,10,no,"entertainment, business, sports",international,online,"theatre, awardCeremony, dance, fashionShow, djEvents, amusement, karaokeShow, music","auction, exhibition, networking, summit, forum, congress, productLaunch, conference, meeting, seminar",no,Test TestTest TestTest TestTest TestTest TestTest TestTest TestTest TestTest TestTest TestTest TestTest TestTest TestTest TestTest TestTest TestTest TestTest TestTest TestTest TestTest TestTest TestTest TestTest TestTest TestTest TestTest TestTest TestTest TestTest TestTest TestTest TestTest TestTest Test,"artDesign, medical, education, safetySecurity, other, , science, financials, telecommunicationServices, informationTechnology, realEstate, materials, automotive",10/10/24 10:10,11/11/24 11:11,Test venue,,Test,yes,,yes,yes,yes,,yes,,,,,,8/12/24 12:54,8/12/24 12:54,yes,"comedy, drama, musical-dancing-play, national-play","belly-dance, classical-dance-ballet, latin-dance, modern-dance, top-dance, folklore-dance","dj-events, dj-background","acrobatic-show, magician-show, play-area, circus-show","jazz-blues, classical, rnb-urban, arabic-classical, country, opera, rock-pop, hard-rock / metal, rap-hiphop, world-music",0.0,,,,Test TestTest TestTest TestTest Test,,8/12/24 12:59,8/12/24 12:59,Not clear,
+111,Ayman,Kaouri,5,Scope Solutions ME - FZCO,,IFZA Properties,DSO,Dubai,United Arab Emirates,585781088,ayman@scopesolutions.me,Accounting Refigured: The Labs,refigured.tech/thelabsdubai,Scope Solutions ME - FZCO,50,1,11,"Our mission at Accounting Refigured is to empower accounting firm leaders with the tools and knowledge they need to thrive in a rapidly evolving industry. Here's what you can look forward to:
+
+Strategic Insights & Innovative Ideas: Gain valuable perspectives from industry experts that will help you lead your firm to new heights.
+
+Practical, Hands-On Skills: Dive into essential software training and learn practical skills to transform your firm into a digital powerhouse.
+
+Networking & Collaboration: Connect with fellow accounting professionals, share experiences, and collaborate on solutions to common challenges.",No,no,business,regional,onsite,,"forum, networking",no,"Ayman Kaouri, ayman@scopesolutions.me, 0585781088",informationTechnology,9/5/24 8:30,9/5/24 17:30,Dubai Knowledge Park Conference Hall,,Dubai,no,,no,yes,yes,No,no,yes,refigured.tech/thelabsdubai,"Early bird: 5 x 169.15 AED
+Full Day: 30 x 199 AED
+Half day: 15 x 115 AED","Early bird 5
+Full day 30
+Half day 15",12.0,8/13/24 0:00,9/3/24 0:00,no,,,,,,0.0,,,,"Ayman Kaouri, ayman@scopesolutions.me, 0585781088",,8/12/24 14:32,8/12/24 14:32,1270,
+112,Akku,George,5,V E D EDUCATION SUPPORT SERVICES L.L.C,,"Office 15,","OneSpace, Green Community,Dubai Investment Park-1",Dubai,UAE,97158889683,uae.info@vedatma.com,VedAtma Quarterly Meet,,,25,1,1,"The VedAtma Quarterly Meet aims to foster a sense of community, enhance professional development, and provide a platform for career guidance counselors, mentors, and educators to share experiences and best practices.",no,no,business,local,onsite,,seminar,no,Aya Rajakaruna /arajakaruna@vedatma.com/ Sri Lankan / 0563620379,education,10/4/24 8:00,10/4/24 12:00,"Dubai Knowledge Park Conference Centre, Block 1.",na,Dubai,no,,yes,no,no,,no,,,,,,8/15/24 7:07,8/15/24 7:07,yes,,,,,,0.0,,,,Aya Rajakaruna /arajakaruna@vedatma.com/ Sri Lankan / 0563620379,,8/15/24 7:18,8/15/24 7:18,1270,
+115,Mahdiah,ElJed,5,DIFC,,DIFC,,Dubai,United Arab Emirates,+971 527376936,c-Mahdiah.ElJed@difc.ae,NDCA National Dialogue on Climate Action,,DIFC,120,0,6,"The objective of the event is to highlight the significance of digital innovation in building sustainability data management solutions and leading the transition to a low carbon society.
+Presenting successful models for fostering digital innovation for a better future
+Keynote speech ‚Äì HE Dr Amna Al Dahak, Minister of Climate
+Change","HE Dr Amna Al Dahak, Minister of Climate Change, Mr. Christoph Klarmann, Deputy Ambassador, German Embassy, UAE",no,business,local,onsite,,summit,yes,"Yassin Nasri @yassin@impactgulf.com 
+Mobile number: +971 50558 4262",other,9/4/24 10:16,9/4/24 14:17,DIFC,THE ATRIUM,DUBAI,no,,yes,no,no,,no,,,,,,8/19/24 5:58,8/19/24 5:58,no,,,,,,0.0,,,,"Yassin Nasri @yassin@impactgulf.com 
+Mobile number: +971 50558 4262",,8/20/24 11:16,8/20/24 11:16,1270,
+116,Hongsung,Yoon,5,Tide Solution FZCO,1.01E+14,Westburry Office Tower 1,Office 801&809,Dubai,United Arab Emirates,557681710,travel@tidesolution.com,KISED Dubai IR pitching program,,Tide Solution FZCO,80,0,15,Korean startups will pitch their service and local inverstors will attend,,no,business,local,onsite,,meeting,no,Mr. Hongsung Yoon,other,10/15/24 9:00,10/15/24 18:00,Sheraton Grand Hotel,Starlight Ballroom,Dubai,no,,yes,yes,yes,No,no,,,,,,8/22/24 7:40,8/22/24 7:40,yes,,,,,,0.0,,,,Marry Joy Cortez,,8/22/24 8:50,8/22/24 8:50,1270,
+117,Ane,Matier,5,FLUME Marketing,1.00E+14,"Office 104, DSC Tower, Studio City",,Dubai,United Arab Emirates,525072190,ane.matier@flumemarketing.com,SAP Business Event,,FLUME Marketing FZ LLC,30,0,2,TBC -  we are in the quote and discussion phase and therefore do not have all the information available.,,no,business,regional,onsite,,conference,no,As above - Ane Matier,informationTechnology,10/1/24 9:00,10/1/24 16:00,TBC,,Dubai,no,,yes,yes,yes,Potentially,yes,,,,,,8/22/24 9:27,8/22/24 9:27,no,,,,,,0.0,,,,As above - Ane Matier,,8/22/24 9:33,8/22/24 9:33,1270,
+118,Tahir,Irshad,5,Innovante Technical Works LLC,1.04E+14,"Innovante Technical works, Street 3, Ras al khor",Street 3,Dubai,United Arab Emirates,525546097,pankaj@innovante.ae,Vista AI display stand,,Scienjoy Meta Technology LLC,400,0,0,"Vista AI Exhibition Stand: The stand will feature an interactive spin wheel game and a claw machine to engage visitors. Additionally, there will be dedicated sections for product and merchandise displays, along with a photobooth for capturing memorable moments.",No,no,business,regional,onsite,,exhibition,no,"Company Name: Scienjoy Meta Technology LLC
+Name: Sushma Iychodianda Achappa
+Mobile: +971505401824
+Email: Sushma@aivista.io",informationTechnology,8/31/24 0:00,9/1/24 12:59,Mall of the Emirates,,Dubai,yes,,yes,no,no,No,yes,,,,,,8/27/24 8:33,8/27/24 8:33,no,,,,,,0.0,,,,"Name: Tahir Irshad
+Mobile: +971524113296
+Email: Tahir@innovante.ae",,8/27/24 9:17,8/27/24 9:17,1770,
+119,Jenny,Medina,5,Baker & McKenzie LLP,,Al Fattan Currency House,"Tower 2, Level 16, Dubai International Financial Centre",Dubai,United Arab Emirates,529008377,jenny.medina@bakermckenzie.com,MENAT Tax Seminar,,Baker & McKenzie LLP,60,0,6,"To discuss the Digital disruption (e-commerce, digital services tax, AI, tax function - finance + tax integration) and the age of transformation in the region (M&A + ESG + key tax trends in the region).",none,no,business,local,onsite,,seminar,no,not applicable,other,11/14/24 9:00,11/14/24 16:00,"The Ritz Carlton DIFC, Dubai",Salon 3 & 8,Dubai,no,,yes,yes,yes,No,no,,,,,,8/28/24 10:50,8/28/24 10:50,yes,,,,,,0.0,,,,"Jenny Medina (BD Executive)
+jenny.medina@bakermckenzie.com
++971 52 900 8377",,8/28/24 12:06,8/28/24 12:06,1270,
+120,Mohamed,Refaat,2,AKA Forte Middle East and Africa,1.01E+14,Preatoni Tower Unit No: 1206 Jumeirah Lakes Towers,,Dubai,UAE,567012866,mohamed.refaat@fortetourism.com,GSK Nucleos Summit,,GSK Life Sciences,60,0,20,The event is a medical summit hosted by GSK Life Sciences to raise awareness and education against nasal polyps and provide treatment options to increase overall wellness of population.,No,no,business,regional,onsite,,summit,no,"Subhi Istaitieh
+subhi.g.istaitieh@gsk.com
++971 50 270 4281",medical,9/20/24 16:10,9/21/24 17:10,"Raffles Dubai, Wafi",,Dubai,no,,yes,yes,yes,No,no,,,,,,8/30/24 11:05,8/30/24 11:05,no,,,,,,0.0,,,,"Mohamed Refaat
+mohamed.refaat@fortetourism.com
++971567012866",,8/30/24 11:11,8/30/24 11:11,1270,
+121,Aaron,Ibarra,5,Guarantee Travel DMCC,1.00E+14,"1907-1908, HDS Business Centre, Cluster M",Jumeirah Lakes Towers,Dubai,UAE,9.72E+11,operations4@guarantee-tours.com,India  Global Forum 2025,,India Global Forum,699,20,150,"India Global Forum tells the story of contemporary India. The pace of change and growth India has set itself is an opportunity for the world. IGF is the gateway for businesses and nations to help seize that opportunity. We are uniquely placed to understand the political, economic, and cultural nuances of those wanting to enter the Indian market and those wanting to go global.",TBA,no,business,international,onsite,,forum,no,Rajvi Singh,other,11/24/24 9:00,11/28/24 17:00,TBA,,dubai,no,,yes,yes,yes,,yes,,,,,,9/2/24 13:53,9/2/24 13:53,yes,,,,,,0.0,,,,Aaron Ibarra,,9/2/24 14:25,9/2/24 14:25,1270,
+122,Mohamed,Refaat,2,AKA Forte Middle East and Africa,1.01E+14,Preatoni Tower Unit No: 1206 Jumeirah Lakes Towers,,Dubai,UAE,567012866,mohamed.refaat@fortetourism.com,2nd MENA Iron Lead Alliance,,CSL Vifor,135,0,17,Medical Summit to invite Healthcare professionals to discuss management and treatment of iron deficiency and iron deficiency anemia to improve health outcomes for patients.,No,no,business,regional,onsite,,summit,no,"Ibrahim Rehab
+ibrahim.rehab@viforpharma.com
++971 52 919 1920",medical,10/4/24 9:00,10/5/24 14:30,"Raffles Dubai, Wafi",,Dubai,no,,yes,yes,yes,No,no,,,,,,9/3/24 20:00,9/3/24 20:00,no,,,,,,0.0,,,,"Mohamed Refaat
+mohamed.refaat@fortetourism.com
++971567012866",,9/3/24 20:05,9/3/24 20:05,1270,
+123,Sheridan,Hatfield,12,JCA Seminars,,One priory square,Priory street,Hastings,United Kingdom,7553606147,Sheridan@jcaseminars.com,Cardiac CT Course,Www.jcaseminars.com,JCA Seminars,12,0,2,"The intensive course follows the BSCI and SCCT guidelines for level 2 accreditation, and over 4 days will include formal lectures and hands-on training using Circle cvi42 on workstations. The course includes analysis of a total of 150 contrast enhanced cases, including coronary analysis of various pathologies, bypass grafting and extra cardiac findings etc, as required by the BSCI. Complemented by formal lectures, you will cover all relevant topics and examples of rare and interesting cases shown.",No,no,business,international,onsite,,seminar,no,"JCA Seminars 
+Courseenquiries@jcaseminars.com
++44 7553606147",medical,9/9/24 8:30,9/12/24 18:00,Intercontinental Marina Hotel,,Yes,no,,no,yes,yes,No,no,yes,Online via JCA Seminars website,"Consultant - 13,010 AED 
+Registrar - 11,103 AED",,0.0,9/9/24 0:00,9/12/24 0:00,yes,,,,,,0.0,,,,"Sheridan Hatfield 
+Events Manager 
+Sheridan@jcaseminars.com
++44 7553606147",,9/5/24 7:27,9/5/24 7:27,1270,
+124,Yaseen,Jaffer,5,Rotary Bur Dubai,,PO Box 78377,,"Al Garhoud, Deira",United Arab Emirates,9.72E+11,rea.lorio@jumeirah.com,Rotary Club Bur Dubai Christmas Dinner,,Jumeirah Creekside Hotel,300,2,0,It's a year-end gathering for the Association that invites members and sponsors of Rotary Club Association. There will be a raffle draw that has a Haval brand new car as the grand prize for all the attendees and 2 musicians will be performing during the event. There will also be an alcohol service during the private event.,,no,business,international,onsite,music,networking,no,"Yaseen M. Jaffer
+ymj60@hotmail.com
++971501577751",other,12/10/24 18:00,12/11/24 1:00,"The Secret Garden, Jumeirah Creekside Hotel",,Dubai,yes,,no,no,no,,no,other,,I am not sure how they sell the ticket; I believe they will plan to sell it at AED 350/- per person.,,,9/10/24 0:00,12/10/24 0:00,no,,,,,jazz-blues,0.0,,,,"Rea Erin Lorio
+rea.lorio@jumeirah.com
++971552000328",,9/5/24 11:46,9/5/24 11:46,3370,
+125,Mousa,Wakileh,4,U.S. Soybean Export Council,,87 Queen Rania St.,,Amman,Jordan,9.63E+11,mwakileh@ct.ussec.org,USSEC's 7th Soybean Processing and Refining Conference,,U.S. Soybean Export Council,110,0,11,Promote the use and awareness of U.S. soybeans and soybean products,No,no,business,international,onsite,,conference,no,"Mousa Wakileh
+mwakileh@ct.ussec.org
++962795558384",education,9/14/24 9:00,9/15/24 17:30,Grosvenor House,Windsor Ballroom,Dubai,no,,yes,no,no,No,no,,,,,,9/9/24 10:27,9/9/24 10:27,yes,,,,,,0.0,,,,"Mousa Wakileh
+mwakileh@ct.ussec.org
++962795558384",,9/9/24 11:54,9/9/24 11:54,1270,
+126,Hongsung,Yoon,5,Tide Solution FZCO,1.01E+14,Westburry Office Tower 1,Office 801&809,Business Bay,United Arab Emirates,585255622,op.assistant@tidesolution.com,KISED Dubai IR pitching program,,Tide Solution FZCO,80,0,15,15 startup companies will give a presentation and 80 number of investors will attend,,no,business,local,onsite,,conference,no,"Mr. Hongsung Yoon
++971 55 768 1710
+travel@tidesolution.com",other,10/15/24 9:00,10/15/24 18:00,Sheraton Grand Hotel,Starlight Ballroom,World Trade Center,no,,yes,yes,yes,No,no,,,,,,9/16/24 5:43,9/16/24 5:43,no,,,,,,0.0,,,,"Ms. Heesun Kim
++82 10-9813-2829",,9/16/24 5:55,9/16/24 5:55,1270,
+127,Lidia,Blanch,4,Trace Media International,1.00E+14,"Dubai Media City, bldg. 7, office 341",,Dubai,UAE,556397080,lidia@tracemedia.info,Telecom Review Leaders' Summit,https://www.telecomreview.com/summit/,Trace Media International,500,0,50,"The 18th edition of Telecom Review Leaders‚Äô Summit will build on the success of the 17th edition that saw the participation of C-level executives from over 58 countries, making it a global summit with a regional contribution. The largest ICT event in the industry",No,no,business,international,onsite,,"conference, exhibition, summit",no,Toni Eid,"telecommunicationServices, informationTechnology",12/10/24 7:30,12/11/24 23:59,Ritz Carlton JBR,LouLou,Dubai,yes,,yes,yes,yes,No,no,,,,,,9/18/24 9:32,9/18/24 9:32,yes,,,,,,0.0,,,,Anna Chumak,,9/18/24 9:42,9/18/24 9:42,1770,
+128,Meredith,Ellison,5,Association for the Advancement of Artificial Intelligence (AAAI),,601 Pennsylvania Ave,Suite 900,Washington,USA,202-360-4062,info@aaai.org,AAAI Summer Symposium Series,,Association for the Advancement of Artificial Intelligence,100,0,30,The Summer Symposium Series is an annual set of meetings run in parallel at a common site. It is designed to bring colleagues together in an intimate forum while at the same time providing a significant gathering point for the AI community. The two and one-half day format of the series allows participants to devote considerably more time to feedback and discussion than typical one-day workshops. It is an ideal venue for bringing together new communities in emerging fields.,No,no,business,international,onsite,,conference,no,"Meredith Ellison, ellison@aaai.org, 771-333-0682",informationTechnology,5/20/25 8:00,5/22/25 14:00,Heriot-Watt University Dubai Campus,,Dubai,no,,no,yes,yes,We may need assistance checking individuals in.,yes,yes,,"[Member -395.00USD]
+[Nonmember -560.00 USD]
+[Student Member - 225.00 USD]
+[Nonmember Student - 335.00 USD]",,15.0,11/25/24 0:00,5/22/25 0:00,no,,,,,,0.0,,,,"Ashley Short McCants, short@aaai.org, 571-435-5547",,9/18/24 15:23,9/18/24 15:23,1270,
+129,Alina,Shliakhtova,5,Accemblage Point FZC LLC,1.01E+14,"BLA-SP1-80, AMC - Boulevard A bld., Ajman",,'Ajman,United Arab Emirates,504680787,a@atravel.pro,Kaidzen Conference,,Platforma Margulana,250,15,15,"Conference and gala-dinner
+The guests will come to the training",No,no,"business, entertainment",international,onsite,awardCeremony,conference,yes,"We will provide it later, first we need the quote",education,10/1/24 9:00,10/3/24 23:55,Taj Exotica The Palm,Ballroom 1 (the largest),Dubai,no,,yes,no,yes,No,no,,,,,,9/20/24 8:51,9/20/24 8:51,yes,,,,,,0.0,,,,"Alina Shliakhtova, a@atravel.pro, +971504680787",,9/20/24 9:01,9/20/24 9:01,4170,
+130,Hind,Kattar,5,Med Surg Solutions,3.01E+14,Almadar Tower 8th Floor,Fraser Suites Hotel Al Olaya,Riyadh,Saudi Arabia,96171193500,zeina.ah@medsurgsolutions.com,Leading The Way In Orthopedic Care - MSS Health Care Excellence Summit Empowering Nurses,,Med Surg Solutions,74,0,6,Workshops for Health care professionals to train and introduce them to the advancements of scientific knowledge and techniques resulting in enhanced patient outcomes,No,no,business,international,onsite,,"conference, summit",no,"Hind Kattar 
++96171193500
+hind.k@medsurgsolutions.com",medical,10/4/24 14:00,10/5/24 13:30,Hotel Sheraton Grand Dubai,Starlight Ballroom,Dubai,yes,,yes,yes,yes,No,no,,,,,,9/23/24 7:42,9/23/24 7:42,yes,,,,,,0.0,,,"3 Sheikh zayed road , dubai , UAE , +97145034444","Hind Kattar 
++96171193500
+hind.k@medsurgsolutions.com",,9/23/24 7:50,9/23/24 7:50,1770,
+131,Hind,Kattar,5,Med Surg Solutions,3.01E+14,Almadar Tower 8th Floor,Fraser Suites Hotel Al Olaya,Riyadh,Saudi Arabia,96171193500,zeina.ah@medsurgsolutions.com,Forging New Paths In Bariatric and Hernia Care,,Med Surg Solutions,48,0,6,Workshop to train health care professionals on the new advancements and techniques  in the sector and share scientific knowledge that will result in the advanced patient outcomes,No,no,business,international,onsite,,"conference, summit",no,"Hind Kattar 
++96171193500
+hind.k@medsurgsolutions.com",medical,10/11/24 8:30,10/12/24 13:00,Hotel Sheraton Grand Dubai,Starlight Ballroom,Dubai,yes,,yes,yes,yes,No,no,,,,,,9/23/24 7:54,9/23/24 7:54,yes,,,,,,0.0,,,"3 Sheikh zayed road , dubai , UAE , +97145034444","Hind Kattar 
++96171193500
+hind.k@medsurgsolutions.com",,9/23/24 8:02,9/23/24 8:02,1770,
+132,Eleonore,Lecoeur,4,DJO France SAS - Trading as Enovis,,"Centre Europeen de Fret,",3 Rue de Bethar,64990 Mouguerre,France,33679445475,eleonore.lecoeur@enovis.com,Enovis Channel Partner Meeting,,Enovis,70,0,5,"Corporate meeting by Enovis to invited Enovis Channel partners to talk about 2024/2025 sales strategy, product focus, sales techniques and general business discussions.  There may be an external speaker to demonstrate/discuss a particular patient scenario and the products to use and how. Delegates share information on sales best practice, learn about Enovis plans for the future and hear from an expert on a specific medical scenario (Lower back pain for example) and the treatment modalities suitable for that situation, what customers look for and sales skills etc.",No,no,business,international,onsite,,seminar,no,"El√©onore Lecoeur
+SENIOR MARKETING MANAGER
+PREVENTION & REHABILITATION
+INTERNATIONAL MARKET/CHANNEL PARTNERS | APAC - EMEA - LATAM 
+
+eleonore.lecoeur@enovis.com 
+D  +33 (0)5 47 51 96 41
+M +33 (0)6 79 44 54 75",medical,1/26/25 8:30,1/26/25 17:30,"Le Royal Meridien, Dubai",Al Sarab,Dubai,yes,,yes,yes,yes,No,no,,,,,,9/23/24 8:38,9/23/24 8:38,yes,,,,,,0.0,,,,"Adam Earle
+MEETING & EVENTS PLANNING MANAGER (INTERNATIONAL)
+
+adam.earle@enovis.com
+M +44 (0) 7769-226359",,9/23/24 9:25,9/23/24 9:25,1770,
+133,Hongsung,Yoon,5,Tide Solution FZCO,1.01E+14,Business Bay,"Westburry Office Tower 1 ,Office 801&809",Dubai,United Arab Emirates,585255622,travel@tidesolution.com,2024 DIPS +1000 Global Relay IR,,Tide Solution FZCO,80,0,15,"15 startup companies will give a
+presentation and 80 number of investors
+will attend",,no,business,local,onsite,,conference,no,"Mr. Hongsung Yoon +971 55 768 1710
+travel@tidesolution.com",other,10/15/24 9:00,10/15/24 18:00,Sheraton Grand Hotel,Starlight Ballroom,Dubai,no,,yes,yes,yes,No,no,,,,,,9/23/24 9:25,9/23/24 9:25,yes,,,,,,0.0,,,,Ms. Heesun Kim +82 10-9813-2829,,9/23/24 9:31,9/23/24 9:31,1270,
+134,Ahmed,Lahlou,5,Events advisor,,3 rue arroz,,Rabat,Morocco,521138000,Ahmed.lahlou@events-advisor.ma,International studies fair,Sefafrique.com,Events advisor,200,10,10,Meeting between students and universities coming from different countries. Allowing students to have any informations for theire studies and carrer,No,no,business,local,onsite,,exhibition,no,Ahmed Lahlou,education,2/19/25 9:00,2/19/25 18:00,Sheraton,,Dubai,no,,yes,yes,yes,,no,,,,,,9/30/24 8:54,9/30/24 8:54,no,,,,,,0.0,,,,Ahmed Lahlou,,9/30/24 9:03,9/30/24 9:03,1270,
+135,Katie,Dou,5,Heriot Watt University,,KNOWLEDGE PARK,Dubai,Dubai,United Arab Emirates,525988566,katie.dou@hw.ac.uk,Higher Education Global Leadership Conference,,Heriot Watt University,25,0,10,"Educational global pioneers Heriot-Watt University, in collaboration with executive search leaders Saxton Bampfylde, are pleased to invite Higher Education Leaders to participate in a
+personal development programme, limited to 20 participants, to explore the opportunities and challenges in establishing productive international partnerships and effective global
+campus cultures.",Prof. Dr. Mohamed Yousif Baniyas,no,business,international,onsite,,"conference, seminar",yes,"Katie Dou
+katie.dou@hw.ac.uk
+0525 988 566",education,1/13/25 8:30,1/14/25 19:00,Heriot Watt University,,Dubai,no,,no,yes,yes,Possibly,no,yes,,"all attendees - 3,500 GBP (17,100 aed)","all attendees - 3,500 GBP (17,100 aed)",12.0,10/1/24 10:27,10/1/24 10:27,yes,,,,,,0.0,,,,"Heather McGregor
+h.mcgregor@hw.ac.uk",,10/1/24 10:39,10/1/24 10:39,1270,
+136,Sabrina,Jamal,4,Generative Design Solutions Trading Middle East FZCO,1.01E+14,"SIT TOWER, DUBAI SILICON OASIS,  DUBAI, United Arab Emirates",,Dubai,United Arab Emirates,050-5478042,sabrina@gdsmiddleeast.com,The Ultimate Industrial Solutions for Manufacturing,,Generative Design Solutions Trading Middle East FZCO,40,0,6,"An overview of our cutting-edge solutions, tailored specifically for manufacturing needs, that will provide innovative, comprehensive solutions to optimize and enhance customers design to manufacturing operations.",No,no,business,local,onsite,,seminar,no,"Jimmy Joseph 
+Jimmy@gdsmiddleeast.com
+971568028020",other,10/24/24 8:30,10/24/24 13:00,Hilton Dubai Palm Jumeirah,Nakhla 5 & 6,Dubai,no,,yes,no,no,No,no,,,,,,10/4/24 8:14,10/4/24 8:14,no,,,,,,0.0,,,,"Sabrina Jamal 
+Sabrina@gdsmiddleeast.com
+050-5478042",,10/4/24 8:23,10/4/24 8:23,520,
+137,Era,Jain,5,HK Enterprises,,"Dubai Industrial City, PO Box 50092",Saih Shuaib 2,Dubai,United Arab Emirates,056 658 9246,era@hkfoodgroup.com,Taste of HK,,HK Enterprises,140,2,9,"Taste of HK is a black box culinary challenge where chefs from top UAE hotels will be participating for the grand prize. 
+ Like Masterchef, Iron Chef & Netflix‚Äôs final table we shall be celebrating excellence in culinary art of UAE.
+
+In association with Emirates Culinary Guild, the event will take place on 11th Oct in Jumeriah Creekside, 7:30 pm Dubai attended by the top F&B stakeholders. 
+
+There are seven teams participating - Marriot, Atlantis, EKFC, St Regis, Madinat Jumeriah, Hilton, Zero Gravity",No,no,business,regional,onsite,,"conference, networking",no,"Mr Raj Sahni
+raj@hkfoodgroup.com
++971 50 624 4921",other,10/11/24 19:00,10/11/24 23:00,Jumeriah Creekside,,Dubai,yes,,yes,yes,no,Yes,no,,,,,,10/5/24 10:41,10/5/24 10:41,yes,,,,,,0.0,,,,"Ms Era Jain
+era@hkfoodgroup.com
++ 971 56 658 9246",,10/5/24 10:54,10/5/24 10:54,1770,
+138,Abbie,McCrisken,4,Sight Pte Ltd,,"138 Cecil Street, 03-01 Cecil Court",,Singapore 069538,Singapore,61457112354,abbiemccrisken@sight-agency.com,Crypto Content Creator Campus,https://www.cccc.buzz/,ByBit / Sight Agency,200,10,25,"This is an educational retreat that equips content creators with the tools to drive crypto adoption, empowering them to expand the crypto ecosystem.This campus is more than an event; it is a journey into the heart of success. Participants will unlock the secrets of content marketing, master engagement strategies, gain in-depth product knowledge in cryptocurrency, and more.",No,no,"entertainment, business",international,onsite,"awardCeremony, djEvents","conference, seminar, meeting, networking, exhibition",no,"Anna Patterson
+annapatterson@sight-agency.com
++659199 4843",other,11/8/24 17:30,11/10/24 22:30,W The Palm,Great Room,Dubai,yes,,no,yes,yes,No,no,yes,https://www.cccc.buzz/#ABOUTUS,"Classic - USD6,000 / AED 22,038
+Prestige - USD10,000 / AED 36,730","Classic - 150
+Prestige - 50",50.0,10/9/24 0:00,11/5/24 0:00,no,,,dj-background,,rnb-urban,0.0,,,,"Abbie Mccrisken
+abbiemccrisken@sight-agency.com 
++61457112354",,10/8/24 1:48,10/8/24 1:48,1770,
+139,Brooke,Cowling,5,Digital of Things DMCC,1.01E+14,"2707, The Dome Tower","Cluster N, JLT",Dubai,United Arab Emirates,9.71E+11,contact@digitalofthings.com,UX Masterclass Dubai 2024,https://www.uxmasterclass.com/,Digital of Things DMCC,275,0,20,"UX Masterclass brings together experts in UX, CX, digital, AI and more for a 1 day event, featuring talks and interactive workshops from leading speakers from around the world. Hosted by Digital of Things and co-hosted by UX Alliance, this year sees 22 local and international speakers sharing fascinating topics under this year's theme ""Shaping tomorrow's experience: UX in the era of evolving customers"". 
+
+The event will take place at Dubai Knowledge Park Conference Centre on 24 October starting 8.30 until 6pm, with refreshments and lunch provided throughout.",No,no,business,international,onsite,,"networking, conference",yes,"Brooke Cowling (COO of Digital of Things)
+brooke@digitalofthings.com
++971556656682","informationTechnology, other",10/24/24 8:30,10/24/24 18:00,Dubai Knowledge Park Conference Centre,,Dubai,no,,no,yes,yes,No,yes,yes,https://www.tickettailor.com/checkout/view-event/id/4665281/chk/dfa4/,Standard ticket price is $199 per person,General - 150,50.0,10/9/24 0:00,10/23/24 0:00,yes,,,,,,0.0,,,,"Allan Backhouse (Operations Manager at Digital of Things)
+allan@digitalofthings.com
++971567647768",,10/9/24 9:11,10/9/24 9:11,1270,
+140,SAVA?,√ñZG√úR,5,T√úRK?YE EXPORTERS ASSEMBLY,,Yenibosna Merkez Mahallesi Sanayi Caddesi No: 3 D?? Ticaret Kompleksi B Blok Kat: 9 34197 Bah√ßelievler / ?STANBUL,,ISTANBUL,T√úRK?YE,2124540859,savasozgur@tim.org.tr,TURKISH TRADE DELEGATION TO DUBAI,,T√úRK?YE EXPORTERS ASSEMBLY,100,0,0,"In coordination with the Turkish Republic Ministry of Trade and under the organization of the T√ºrkiye Exporters Assembly, Trade Delegation to UAE (Dubai) will be held between 21 - 25 October 2024 for our companies from various sectors.
+
+Within the framework of our Trade Delegation, a Business Forum will take place in Dubai on 23 October 2024 followed by bilateral business meetings (B2B).
+
+https://delegations.tim.org.tr/event/uae-dubai-2024",No,no,business,local,onsite,,networking,yes,"T√ºrkiye Exporters Assembly
+tim@tim.org.tr
++90 539 519 60 32",other,10/23/24 9:30,10/23/24 18:00,Sheraton Grand Dubai Hotel,Starlight Ballrom - 2,Dubai,no,,yes,yes,yes,No Need,no,,,,,,10/10/24 8:16,10/10/24 8:16,no,,,,,,0.0,,,,"SAVA? √ñZG√úR
+savasozgur@tim.org.tr
++90 539 519 60 32",,10/10/24 8:29,10/10/24 8:29,1270,
+141,Jana,Awad,5,TBA - PHARMACEUTICAL,,"HDS Tower, Cluster M, JLT",,Dubai,UAE,9.72E+11,operations9@guarantee-tours.com,Prevalin Symposium,,Guarantee Travel Group DMCC,100,0,5,"Discuss and exchange knowledge, research findings, and insights on a particular topic",No,no,business,international,onsite,,"meeting, seminar",no,tba,medical,10/24/24 16:00,10/25/24 22:00,Kempinski The Boulevard,,Dubai,no,,yes,no,no,,no,,,,,,10/10/24 9:12,10/10/24 9:12,yes,,,,,,0.0,,,,tba,,10/10/24 9:46,10/10/24 9:46,1270,
+142,Hanin,Safaa,4,Pro Events L.L.C-FZ,,"Meydan Grandstand, 6th floor","Meydan Road, Nad Al Sheba",Dubai,UAE,7710778660,info@iraqconnects.com,Iraq Connect Summit,https://iraqconnects.com/,Pro Events L.L.C-FZ,149,29,25,"Empowering Connectivity: Transit & Investment for a Digital Iraq 2024, Dubai, UAE
+
+Organizing a conference about Telecommunications Transit in Iraq, represents a strategic and vital step towards empowering the digital and economic development in the country. As in a world where technology and the importance of digital communications is accelerating, Iraq as a country has to aspire for an overall progress to play a prominent role in this vital industry, taking Iraq‚Äôs geographic location into consideration. 
+
+Despite the challenges that Iraq faces, it owns a huge potential and a strong will to improvise the infrastructure for communications, and empower its technological possibilities especially that Iraq has a distinct geographic location. 
+
+We aim to support a sustainable future for Iraq, by organizing this event, through highlighting the developing opportunities in the sector of communications and technology, and strengthen our position in the international market as a main operator in technological innovation and digital development.",Iraqi Minister of Communications,no,business,international,onsite,,conference,yes,"Ahmed Ali Ahmed Shukri Aljader
++9647712658333
+ahmed.aljader@businessgatewayiraq.com","telecommunicationServices, informationTechnology",10/28/24 8:00,10/29/24 22:00,Grosvenor House Hotel,Windsor Ballroom,Dubai,yes,,yes,yes,yes,No,no,no,,,,10.0,10/10/24 11:14,10/10/24 11:14,yes,,,,,,0.0,,,,"Ahmed Ali Ahmed Shukri Aljader
++9647712658333
+ahmed.aljader@businessgatewayiraq.com",,10/10/24 11:33,10/10/24 11:33,1770,
+143,HELI MIDDLE EAST,FZCO,4,heli middle east fzco,,"UC01,JEBEL ALI",,dubai,United Arab Emirates,522343524,aishwarya@helichina.net,2024 HELI MIDDLE EAST & AFRICA DISTRIBUTOR CONFERENCE,,HELI MIDDLE EAST FZCO,150,5,15,2024 Middle East & Africa Distributor Conference of Heli Forklift - This conference marks a significant milestone as HELI and their distributors gather together after navigating the past year's challenges. It provides them a valuable opportunity to share their experiences and achievements and explore the exciting prospects that lie ahead collectively.,yes,no,"entertainment, business",international,onsite,"music, awardCeremony","conference, meeting, forum",no,MIANGUANG SONG ; smg@helichina.net; 0529729207,automotive,11/19/24 8:30,11/20/24 23:00,"TAJ EXOTICA RESORT & SPA , THE PALM, DUBAI , UAE",ROYALE BALLROOM1 & THE COAST & meeting rooms,dubai,yes,,yes,yes,yes,We already have the desk.,no,,,,,,10/10/24 12:15,10/10/24 12:15,yes,,,,,"arabic-classical, rock-pop, world-music",0.0,,,,"MIANGUANG SONG ; smg@helichina.net
+0529729207",,10/10/24 12:36,10/10/24 12:36,3870,
+144,Giles,Godwin-Brown,4,Global Growth Business,,1 Mentmore Terrace,,London,United Kingdom,2071930071,giles@futureforums.com,World Finance Forum,,Global Growth Business,300,0,30,"Business conference for CFOs, finance directors & senior executives working in accounting & finance (mostly within the Middle East) to meet, greet & discuss key issues surrounding businesses these days including: CFO Leadership, Strategic Business Partnering, Finance Technology, AI & Tech Transformation, FP&A Innovation.",0,no,business,regional,onsite,,conference,no,"Giles Godwin-Brown 
+giles@futureforums.com
++447766827272",other,11/6/24 7:00,11/6/24 19:00,Sofitel Dubai The Palm,Moorea Ballroom,Dubai,yes,,partial,yes,yes,No thank you,no,other,,"We advertise for tickets publicly, but >90% of attendance is free. 
+
+Paid-for tickets tend to be for people to virtually access the content (i.e. watch back th sessions).",Unsure -  maybe 20k in sales for tickets.,290.0,10/14/24 0:00,11/6/24 0:00,no,,,,,,0.0,,,,"Giles Godwin-Brown 
+giles@futureforums.com
++447766827272",,10/10/24 16:33,10/10/24 16:33,1770,
+145,Ankita,Singh,4,Spark institutional equities private limited,,"EA chamber Tower II, No.49,50, 5th floor, whites road, Royapettah",,Chennai,India,9.20E+11,ankita.s@avendusspark.com,Avendus Spark Dinner,,Spark institutional equities private limited,115,0,0,"Avendus spark is hosting employees offsite in Dubai and on 15th November, we are hosting the employees with dinner and drinks.",No,no,entertainment,local,onsite,djEvents,,yes,"Ankita singh
+ankita.s@avendusspark.com
++919500097098",financials,11/15/24 19:00,11/16/24 0:00,Sofitel Dubai the palm,Moorea ballroom 2 sections,Palm,no,,yes,no,no,,no,,,,,,10/14/24 8:18,10/14/24 8:18,no,,,dj-events,,,0.0,,,,"Ankita singh
+ankita.s@avendusspark.com
++919500097098",,10/14/24 8:27,10/14/24 8:27,,
+146,Rebeka,Popovic,5,REA GLOBAL TEXTILE TRADING  CO LLc,1110418,Alrajhi Building GF 17,HOR AL ANZ,Dubai,United Arab Emirates,585914467,rebeka@reaonline.shop,Fashio Show Center Cut,Reaonline.shop,Rea Global Trading Textile Co Ltd,80,0,2,Fashio show with guests on Invitation. Models will be showing latest collection.,0,no,entertainment,local,onsite,fashionShow,,yes,Rebeka Popovic,artDesign,11/1/24 17:00,11/1/24 19:00,Ritz Carlton DIFC Dubai,Center Cut,Dubai,yes,,yes,no,no,No,no,,,,,,10/18/24 15:06,10/18/24 15:06,yes,,,,,,0.0,,,,Rebeka Popovic,,10/18/24 15:18,10/18/24 15:18,,
+147,Sara,Nada,15,SM Advertise for Events Managing Company,1.04E+14,"BUSHRA OBAID BLDG, NAIF, DEIRA,",,Dubai,United Arab Emirates,501626657,Sara.n@spowerm-corp.com,A New Era of Therapeutic Pet Nutrition Seminar,,SM Advertise For Events Managing Co..L.L.C,220,0,4,The event for German standard group and it will be like symposium,No,no,business,regional,onsite,,"meeting, productLaunch",no,"Aya Maaly
+00971581091331",medical,11/17/24 9:00,11/17/24 22:00,Sofetil Palm Resort,Moorea Ballroom and Palm View Graden,Dubai,no,,yes,no,yes,No,no,,,,,,10/21/24 11:34,10/21/24 11:34,no,,,,,,0.0,,,,"Sara Nada
+00971501626657",,10/21/24 12:02,10/21/24 12:02,,
+148,Emma,Dubois,4,Double Decker Event Management LLC,1.00E+14,"Unit 2, Building 23",FAB Properties,Dubai,United Arab Emirates,97142882886,accounts@thedoubledecker.com,Mudon Xmas Activation 2024,www.thedoubledeckerevent,Double Decker Event Management LLC,500,0,0,"Platform with Red Carpet 5m x 5m
+16m x White Picket Fencing
+1 x Themed Xmas Entrance Arch
+4m x Backdrop with Themed Graphics
+1 x Fireplace with Fire TV-Monitor
+1 x 7ft Xmas Tree with D√©cor
+1 x Santa Throne 
+1 x Santa Claus for Meet & Greet
+1 x Lot of Arts & Crafts Activities & Materials 
+3 x Attendants in elf costume
+1 x Face Painting with Corner setup",none,no,entertainment,local,onsite,amusement,,no,"Emma Dubois, emma@thedoubledecker.com, 0555217717",other,12/21/24 16:00,12/21/24 21:00,Mudon Community,Community,Dubai,no,,yes,no,no,no,yes,,,,,,10/21/24 12:56,10/21/24 12:56,no,,,,play-area,,0.0,,,,"Roberto Gleria, roberto@thedoubledecker.com, 0505056872",,10/21/24 13:04,10/21/24 13:04,,
+149,Kristen,Egbert,4,KLAS Research,,365 South Garden Grove Lane,Suite 300,Pleasant Grove,United States of America,17024154688,kristen.egbert@klasresearch.com,KLAS Middle East Summit 2025,https://events.klasresearch.com/event/me25/summary,KLAS Research,148,0,2,"The KLAS Middle East Summit 2025 will bring together healthcare leaders from across the GCC region for a day of collaboration and learning. Discussions will center around top organizational priorities by leveraging ongoing KLAS research covering regional healthcare IT investment trends, the revenue cycle landscape and priorities, organizational cloud readiness, and other IT opportunities.
+
+Ultimately, the goal is to create better synergy between providers, vendors, and policymakers by bringing transparency and facilitating discussion around the most critical challenges facing the industry in the Middle East today.",No,no,business,regional,onsite,,"conference, summit",no,"Kristen Egbert
+kristen.egbert@klasresearch.com
+17024154688","medical, informationTechnology",1/24/25 17:00,1/25/25 16:00,SOFITEL Dubai The Palm,Moorea Ballroom,Dubai,no,,yes,yes,yes,No,no,,,,,,10/22/24 15:22,10/22/24 15:22,yes,,,,,,0.0,,,,"Kristen Egbert
+kristen.egbert@klasresearch.com
+17024154688",,10/22/24 15:31,10/22/24 15:31,,
+150,Rahna,Fairooz,5,Badri Management Consultancy FZCO,1.00E+14,"SIT Tower,",Nad hessa street,Dubai,UAE,553352271,rahna.fairooz@badriconsultancy.com,Badri Annual Conference 2024,www.Badriconsultancy.com,Badri Management Consultancy FZCO,100,0,7,"This year‚Äôs theme, 'Resilience and Growth,' focuses on how the insurance industry can adapt to challenges like price competition, regulatory changes, climate risks, and data security. Expert panellists will discuss the RBC regime, sustainability reporting, post-merger transformations, and an industry SWOT analysis",No,no,business,local,onsite,,conference,no,"HATIM MASKAWALA . Email - Hatim.maskawala@badriconsultancy.com , Contact - 0501392272",financials,11/28/24 8:05,11/28/24 16:00,Dusit Thani,,Dubai,no,,yes,yes,yes,No,no,,,,,,10/22/24 10:28,10/22/24 10:28,no,,,,,,0.0,,,,"Rahna Fairooz . Email- rahna.fairooz@badriconsultancy.com , COntact - 0553352271",,10/23/24 5:07,10/23/24 5:07,,
+151,Jamila,Saidi,4,Clarity Business Travel,,56 Oxford Street,,Manchester,United Kingdom,4.43E+11,thompson.sunerton@claritybt.com,Meeting,,Clarity,6,0,1,UK government meetings with clients and stakeholders from the private sector,No,no,business,international,onsite,,meeting,no,"Jamila Saidi 
+Email: jamila.saidi@businessandtrade.gov.uk
+Phone: +447901105347",other,10/28/24 10:00,10/30/24 16:00,Sofitel Dubai The Palm,Tahiti Room,Dubai,no,,yes,no,no,,no,,,,,,10/23/24 10:00,10/23/24 10:00,no,,,,,,0.0,,,,"Thompson Sunerton 
+thompson.sunerton@claritybt.com 
++44 (0) 333 014 6074",,10/23/24 10:10,10/23/24 10:10,,
+152,Inga,Muradova,5,ASSEMBLAGE POINT FZC LLC,1.01E+14,"A-66-01-03-03, Flamingo Villas, Ajman, Ajman, United Arab Emirates, 4422, +971509201309",,Ajman,UAE,9.72E+11,mice1@atravel.pro,symposium for doctors,,ASSEMBLAGE POINT FZC LLC,45,0,6,"Date of the meeting: 10 Dec 2024
+Venue: Conference room at NH Collection Dubai the Palm 4*
+Time: 09:00 - 18:00
+N of PAX: 45
+ 
+Client is a pharma company from Italy.
+The event is a symposium for doctors from the Middle East ‚Äì primarily participants from Iraq and Lebanon. It is a workshop on the topics of cardiology, hypertension etc.
+There will also be 3 professors (speakers) from Europe (Greece, Spain and Germany) as well as 3 employees from the pharma company.
+They don't sell tickets,  it is fully sponsored by Pharma company and free for attendees.
+It's not decided about having or not badges",no,no,business,international,onsite,,"conference, seminar, forum",no,"Inga Muradova Ms, 
+Whatsapp: +971544249759
+Mobile: +995592111727
+E-mail: mice1@atravel.pro",medical,12/10/24 8:00,12/10/24 19:00,NH Collection the Palm,Navarra Meeting Room 75 sq. m,Dubai,no,,yes,yes,yes,no,no,,,,,,10/23/24 16:15,10/23/24 16:15,yes,,,,,,0.0,,,,"Inga Muradova Ms, 
+Whatsapp: +971544249759
+Mobile: +995592111727
+E-mail: mice1@atravel.pro",,10/23/24 16:28,10/23/24 16:28,,
+154,Gowri,Chandran,4,1703,,"one by omniyat, business bay",1702,Business bay,United Arab Emirates,058 553 9002,Gowri.Chandran@pini.group,Make it happen,,Pini,75,0,3,"Global annual managementmeeting, discuss achievements and discuss future strategy",,no,business,international,onsite,,conference,yes,Gowri chandran,other,11/12/24 8:00,11/13/24 19:16,W hotel,,Dubai,no,,yes,no,yes,,no,,,,,,10/24/24 15:12,10/24/24 15:12,yes,,,,,,0.0,,,,Gowri chandran,,10/24/24 15:18,10/24/24 15:18,,
+155,Ashah,Nabbanja,5,Uganda Embassy Abu Dhabi & Consulate  Dubai,,86 26 C st. - Jumeriah - Jumeria 1,,Dubai,United Arab Emirates,585772733,Erina.zalwango@ugandaconsulatedubai.com,Uganda - UAE Business Forum,,Sheraton Grand Dubai,150,0,10,"The Uganda-UAE Business Forum is an annual event organised by the Uganda Embassy, Abu Dhabi, and the Uganda Consulate General, Dubai, that is aimed at attracting Foreign Direct Investment, promoting Uganda‚Äôs exports to the UAE, promotion of tourism, attraction of technology transfers, projecting a positive image of Uganda and mobilising
+the Ugandan diaspora in the UAE for development.","Chief guest Prime Minister of the Republic of Uganda, ‚Äì Rt. Hon. Robinah Nabbanja H.E. Zaake W. Kibedi, Ambassador of the Republic of Uganda to Uganda  Mr. Ramathan Ggoobi, Permanent Secretary/Secretary to the Treasury H.E. Sultan Ahmed Bin Sulayem, Group Chairman and Chief Executive Officer, DP Wor",no,business,local,onsite,,"conference, seminar",yes,"Steven Bameka
+Financial Attach√©
+Embassy of The Republic of Uganda in Abu Dhabi
+AL Falah Street 9, Al-Bateen
+Mob: +971507748379
+Tel   : +97126659931
+Abu Dhabi, UAE
+
+?",other,10/31/24 7:00,10/31/24 16:00,Sheraton Grand Dubai,Starlight Ballroom,Sheraton Grand Dubai,yes,,yes,yes,no,TBC,no,,,,,,10/25/24 14:43,10/25/24 14:43,yes,,,,,,0.0,,,VIP Boardroom etc,"Steven Bameka
+Financial Attach√©
+Embassy of The Republic of Uganda in Abu Dhabi
+AL Falah Street 9, Al-Bateen
+Mob: +971507748379
+Tel   : +97126659931
+Abu Dhabi, UAE",,10/25/24 15:42,10/25/24 15:42,,
+156,Deepak,Chandwani,4,Najm planners for events and exhibition,,16A Mankhool,Western University,Dubai,UAE,506547828,Deepakchandwani@gmail.com,F1 Motor,,Najm,250,5,0,"formula 1 F1 Etihad Airways, GRAND PRIX 2024 at Yas Circut from 5th to 8th December",No,no,"sports, entertainment",international,onsite,"djEvents, music",,no,Z K Sports and entertainment,other,12/6/24 11:30,12/8/24 23:45,W Hotel Yas island,,Abu Dhabi,no,,no,yes,yes,No,yes,yes,,Not finalized,250,0.0,11/1/24 0:00,12/6/24 0:00,no,,,dj-background,,"world-music, arabic-classical",0.0,,,,Deepak chandwani,,10/28/24 9:09,10/28/24 9:09,,
+157,Sinem,Guney,15,Art be a Part LLC,1.04E+14,"Business Bay, Dubai, UAE",,Dubai,UAE,565068633,Sinem@artbeapart.com,The Art be a Part Gala,Artbeapart.com,Art be a Part Events LLC,190,8,3,Charity gala for unicef india and dubai cares - non ticketed event for donors and sponsors. Already have IACAD Permit for this event.,HE Dr Tareq Al Gueg,yes,business,international,onsite,,"networking, auction",no,Sinem Guney ?+971¬†52¬†928¬†3335? sinem@artbeapart.com,artDesign,11/6/24 18:00,11/6/24 23:30,Baoli Dubai,,Dubai,no,,partial,no,no,,no,no,,Non ticketed event - access through contributions/ donations,,,10/31/24 0:00,11/1/24 0:00,no,,,,,,0.0,,Dubai Cares,,"Kunal Rupani - Big Night - +971 55 466 4567 
+Kunal@bignight.net",,10/29/24 21:30,10/29/24 21:30,,
+158,Joanne Jessica Lieschen,Dexter,5,YPO Inc,225E John Carpenter Freeway,Suite 500,"Irving, Texas",Irving,USA,27842767468,joanne.dexter@ypo.org,AI Empowerment For Health Care CEO's,,YPO Inc,50,0,0,Workshop including AI News and technology updates and practical applications.,,no,business,international,onsite,,seminar,no,Joanne Dexter +27 842767468,"informationTechnology, education",11/5/24 13:00,11/6/24 18:00,Dubai Knowledge Park,Hall 3,Dubai,no,,yes,no,no,,no,,,,,,10/30/24 7:00,10/30/24 7:00,no,,,,,,0.0,,,,Joanne Dexter +27 842767468,,10/30/24 7:14,10/30/24 7:14,,
+159,Haitham,Soliman,4,Viatris,,Dubai Media City Building 6 - Al Sufouh - Al Sufouh 2 - Dubai,Dubai,Dubai,United Arab Emirates,056 683 8593,Haitham.Soliman@viatris.com,Be Mind,,Viatris,200,20,20,"iscuss the latest research, innovations, and clinical practices in psychiatry.
+Present updates on treatments for mental health disorders and emerging therapeutic techniques.
+Provide opportunities to connect with peers, researchers, and industry professionals.
+Encourage interdisciplinary collaboration across psychiatry, psychology, and related medical fields.
+Offer Continuing Medical Education (CME) credits to ensure psychiatrists stay current with their licensing requirements.
+Promote skill development through workshops, panel discussions, and case studies.
+Facilitate discussions on challenges such as stigma, access to care, and the integration of technology in mental health.
+Explore public policy and ethical considerations affecting psychiatry.
+Introduce psychiatrists to new diagnostic tools, medications, and interventions.",No,no,business,regional,onsite,,"meeting, conference",no,"Haitham Soliman
+Haitham.Soliman@viatris.com
++971 56 683 8593",medical,11/15/24 9:00,11/16/24 14:00,Conrad Hotel Dubai,,Dubai,no,,yes,no,yes,No,yes,,,,,,10/30/24 18:11,10/30/24 18:11,yes,,,,,,0.0,,,,"Wei Zhao
+Wei.Zhao@viatris.com
+00971 55 972 9968",,10/30/24 18:20,10/30/24 18:20,,
+160,Jara,del Mundo,4,Dance It Forward,,Dubai,,Dubai,UAE,585220343,difproductions24@gmail.com,The Last Christmas,,Dance It Forward,400,50,1,"The Last Christmas musical celebrates the joy, love, and magic of Christmas.
+
+This musical will unite the creative community through an unforgettable experience filled with uplifting music, captivating performances, and a powerful message of hope.
+
+The story resonates with all audiences, reminding them of the true spirit of the season and creating lasting holiday memories.",No,no,entertainment,local,onsite,"theatre, dance, music",,no,"Jara del Mundo
+difproductions24@gmail.com
+0585220343","other, artDesign",12/7/24 13:00,12/7/24 21:00,Dubai British School,The Black Box,Dubai,no,,partial,no,no,"Yes, for tickets scanning",no,yes,,"Early Bird - AED 50
+Regular Price - AED 75",,300.0,11/4/24 0:00,12/7/24 0:00,no,musical-dancing-play,modern-dance,,,world-music,0.0,,,,"Jara del Mundo
+difproductions24@gmail.com
+0585220343",,10/31/24 8:11,10/31/24 8:11,,
+161,Robert,Azaryan,4,Synergy Advisory Facility Management Services LLC,,"The One Tower, 3818, Tecom, Barsha Heights",338485,Dubai,United Arab Emirates,79054977988,RAzarian@synergy.ru,International Business Forum: ¬´World of Opportunities¬ª,https://businessforum.ae/eng,Synergy Advisory Facility Management Services LLC,800,2,100,"?????????? ????????? ??????? ???????????, ???????????? ??????? ?????????????? ??????? ??? ?????????? ?????????????? ? ????? ?????????? ????????.?????????, ?????????? ?????????? ????????????? ???????? ? ???????? ??????? ? ??????????????????? ???????????.??????????? ????? ???? ??? ???????? ? ??????????, ???????? ????????? ?????? ?? ??????? ???????, ? ?????? ? ??????? ????.? ??????????? ????????? ?????? ? ????????????? ????????, ??????????? ? ??????????? ?????????????.","H.E. Dr Thani Bin Ahmed Al Zeyoudi  - Minister of State for Foreign Trade, Minister in Charge of Talent Attraction and Retention, Chairman of the Emirates Drug Establishment",yes,business,international,onsite,,forum,no,"Ilia Melnichuk
+IM@synergydubai.ae +971 56 440 6940",financials,11/14/24 9:00,11/15/24 18:00,The Ritz-Carlton,LouLou a Ballroom,Dubai,yes,,no,yes,yes,no,no,yes,https://businessforum.ae/eng,"Light - 943 AED
+Standard - 1885 AED
+Business -  5654  AED
+VIP - 11 308 AED","Light - 50
+Standard - 350
+Business -  200
+VIP - 150",100.0,11/5/24 0:00,11/13/24 0:00,no,,,,,,0.0,,Synergy Advisory Facility Management Services LLC,Al Mamsha St - Jumeirah Beach Residence,"Azaryan Robert 
+RAzarian@synergy.ru
++79054977988",,11/5/24 15:24,11/5/24 15:24,,
+162,Uzair,Masuood Khan,5,JUSTB FOR EVENTS MANAGING,1.01E+14,"Office 703 Building 13, Bay Square,  Marasi Drive, Business Bay, Dubai,",,Dubai,United Arab Emirates,529834660,uzairmasuood@gmail.com,AlyxMUN,alyxmun.org,JUSTB FOR EVENTS MANAGING,210,0,2,"Purpose of Event:
+AlyxMUN‚Äô24 aims to engage participants in meaningful discussions on global issues, fostering diplomatic skills and global awareness among youth. This event brings together delegates to simulate real-world decision-making processes within various UN committees.
+
+Topics to be Discussed:
+The event covers pressing topics across multiple committees, including maritime insecurity and piracy (DISEC), territorial concerns in the South China Sea (UNSC), gender-based violence in conflict zones (UNW), corporate environmental impact (UNEP), balancing human rights with anti-terrorism efforts (UNHRC), and the opioid crisis (UNODC).
+
+Benefits of Attending Event:
+Attending AlyxMUN‚Äô24 provides participants with an opportunity to develop critical thinking, public speaking, and negotiation skills. Delegates will gain a deeper understanding of complex global issues, build leadership abilities, and network with peers and experts in the field of international relations. This immersive experience prepares attendees to navigate and address global challenges effectively.",yes,no,business,local,onsite,,conference,no,"Muhammad Uzair Masuood Ul Rasheed Khan, uzairmasuood@gmail.com, 0529834660",other,11/15/24 14:00,11/17/24 15:00,Universit of Wollongong Dubai,,Dubai,no,,no,yes,yes,no,no,other,https://pay.ziina.com/alyxmun24/PqarO8Toy,General - 150,160,35.0,11/7/24 0:00,11/11/24 0:00,yes,,,,,,0.0,,,,"Muhammad Uzair Masuood Ul Rasheed Khan, uzairmasuood@gmail.com, 0529834660",,11/7/24 7:28,11/7/24 7:28,,
+163,Shehzad,Anwar,4,ADM,,26th Floor Uptown Tower DMCC Dubai,,Dubai,UAE,9.23E+11,Shehzad.anwar@adm.com,Soybean Meeting,,ADM,20,0,2,"Discussion around Soybean market in 2025.  
+
+We are in agriculture business and we are all attending a conference organised by USSEC at Sofitel. 
+
+This meeting is on the sidelines of the conference between ADM and some of our customers attending the conference.",NO,no,business,regional,onsite,,networking,yes,"Shehzad Anwar
+Shehzad.anwar@adm.com",other,11/14/24 16:30,11/14/24 18:00,Hotel Sofitel Palm Dubai,The Library,Dubai,no,,yes,no,no,,no,,,,,,11/7/24 11:46,11/7/24 11:46,yes,,,,,,0.0,,,,As above,,11/7/24 11:53,11/7/24 11:53,,
+164,Syed,Jamal,5,Red Cherry Events,1179183,Office G54,Hor anz,Dubai,United Arab Emirates,505149884,jamal@redcherryevents.co,Everyday AI Summit Dubai,,Yo partnets,200,0,5,"Dataiku is organizing an event on November 14th 2024 at Dubai Opera in the Studio venue of the opera. The objective of the event is for Dataiku to invite & celebrate its prospects & customers in a very high level venue such as  Duba√Ø Opera, in order to present them the latest innovation of Dataiku solutions & its partners. 
+This day is made for learning & listening to success stories, innovation of Dataiku‚Äôs platform.",No,no,business,local,onsite,,summit,no,"Jasmine Nullans, jasmine@yo-partners.com, +33766283828",informationTechnology,11/14/24 8:00,11/14/24 18:00,Opera Dubai,Auditorium,Dubai,yes,,no,yes,yes,,no,no,,,,,11/8/24 13:33,11/8/24 13:33,no,,,,,,0.0,,,,"Syed Jamal Zaidi, jamal@redcherryevents.co, 0505149884",,11/8/24 14:00,11/8/24 14:00,,
+165,Ajmal,S,4,ENotion Event Management,,Dubai,Dubai,Dubai,United Arab Emirates,502185245,Info@enotionevent.com,Fly Dubai games 2024,,Fit on click,1000,1,0,"Sports family day event, for the employees or Fly Dubai. Finals of all sports events will be conducted",No,no,"sports, entertainment",international,onsite,djEvents,,yes,"Smit Shah, 0503228294",automotive,11/16/24 9:00,11/16/24 17:00,Amity University,,Dubai,no,,yes,no,no,No,no,no,,,,,11/12/24 10:12,11/12/24 10:12,no,,,dj-background,,,0.0,,,,Ajmal; 0502185245,,11/12/24 10:20,11/12/24 10:20,,
+166,Sibsankar,Maity,5,BuyerForesight ME DMCC,202022904M,"Unit 3302-29, 33rd Floor, HDS Business Centre, Plot M1, Jumeirah Lakes Towers, Dubai, U.A.E",,Dubai,UAE,6289151424,Sibsankar.maity@buyerforesight.com,Infosys Topaz AI Conversations Dubai,https://www.infosys.com/newsroom/events/2024/ai-conversation.html,BuyerForesight ME DMCC,60,0,5,"Thought Leadership Networking event for Senior B2B Tech executives to network and discuss the potential opportunities, challenges and solutions with AI in different industry applications.",NO,no,business,local,onsite,,conference,no,"Sandeep Sivaram 
+sandy@buyerforesight.com 
++ 91 9038044905",informationTechnology,11/27/24 16:30,11/27/24 21:00,Atlantis The Palm Dubai,Spice Ballroom A+B,Dubai,no,,no,yes,yes,NO,no,no,,,,0.0,11/27/24 0:00,11/27/24 0:00,no,,,,,,0.0,,,,"Juliet Butau
++971 50424 0315
+juliet.butau@atlantisdubai.com",,11/13/24 6:38,11/13/24 6:38,,
+167,Kunal,Rupani,5,The Big Night Events DMCC,,Office 902 Tower X3 JLT,,Dubai,UAE,554664567,kunal@thebignight.net,MNA Corporate Event,,MNA Ventures,200,8,1,To celebrate MNA Ventures success in last 20 years and celebrate the newly formed venture Seventh Key Developers,No,no,business,local,onsite,,productLaunch,yes,"Ms. Caludia
++971543098714
+soler@7thkeys.com",realEstate,11/28/24 19:00,11/28/24 23:00,Banyan Tree Ballroom,,Dubai,no,,yes,no,no,No,no,no,,No sales,No Sales,0.0,11/20/24 6:02,11/20/24 6:02,no,,,,,,0.0,,,,"Kunal Rupani
++971554664567
+kunal@thebignight.net",,11/20/24 6:32,11/20/24 6:32,,
+168,Heather,Stone,5,GRC World Forums,,"The Cottages, Jones Court Womanby Street,",,Cardiff,CF10 1BR,7471947175,heather@dataprotectionworldforum.com,RISK Dubai,,GRC World Forums,350,5,50,"#RISK GCC will bring together GRC, Privacy and Risk Professionals from around the region to share knowledge, enhance learning and promote innovation, and with the aim of providing insights into working within the framework of new, ground-breaking technology systems.",No,no,business,local,onsite,,conference,no,"Heather Stone 
+heather@dataprotectionworldforum.com
+07471947175","financials, informationTechnology",12/10/24 9:00,12/11/24 17:00,DIFC Conference Centre,,Dubai,yes,,no,yes,yes,No,no,yes,,#RISK GCC - Delegate Pass - 299 dollars,200,100.0,11/21/24 0:00,12/10/24 0:00,yes,,,,,,0.0,,,,"Heather Stone 
+heather@dataprotectionworldforum.com
+07471947175",,11/21/24 9:54,11/21/24 9:54,,
+169,THANH,LE,15,kinboru,,40 sandbourne road,,london,united kingdom,7856460655,kinboru_DXB@outlook.com,Kintsugi Class For Beginner's,,Kinboru,15,2,2,"Discover the Japanese art of kintsugi at this London pottery class and create a beautiful ceramic piece to take home.
+
+Kintsugi is an ancient art form that celebrates the Japanese philosophy of the beauty of imperfection. It involves putting broken pieces of pottery back together with gold and embracing the cracks to produce a beautiful piece of art.
+
+In this kintsugi class, your experienced tutor will tell you all about the history and philosophy of kintsugi whilst taking you through the process of making your own kintsugi piece.
+
+Kintsugi is a perfect solution for a mistakenly broken treasured item, but to practice this art form you'll learn how to safely break pottery to practice mending it in the kintsugi way, without overdoing the cracks. You'll use a hammer 
+ with plenty of support from your teacher.
+
+The gold of kintsugi is what makes it so beautiful and in the next stage of your craft class, you'll learn to use a micro metal mix with epoxy resin to create your gold solution. You'll then use this solution to fix together your broken pottery pieces, creating a wonderful piece of perfectly imperfect art. 
+
+You'll finish this London kintsugi class with lots of new knowledge on kintsugi pottery and the ability to mend broken ceramic pieces. You'll also take away your own handmade piece of kintsugi art. Kintsugi is a therapeutic process and you'll feel a sense of calm and accomplishment as you finish this special workshop.
+
+Your finished piece is only for display not for food use, microwaves, ovens or the dishwasher.",no,no,entertainment,local,onsite,amusement,,no,"Thanh Long le
+Kinboru_DXB@outlook.com
+07856460655",artDesign,1/3/25 12:00,1/3/25 14:00,"In5 Design Building, D3",Dubai,dubai,no,,no,no,no,,no,yes,,290,290,0.0,1/1/25 0:00,1/3/25 0:00,no,,,,play-area,,0.0,,,,"Thanh Long le
+Kinboru_DXB@outlook.com
+07856460655",,11/21/24 21:35,11/21/24 21:35,,
+170,Aya Maria,Melki,4,Lefties,,Dubai Hills Mall,,Dubai,United Arab Emirates,582688006,aya.melki@boopin.com,Christmas Activation,,Lefties,1000,1,0,"This in-store Christmas activation at Lefties, Dubai Hills Mall, will feature a variety of engaging activities, including a gift-wrapping station, appearances by Santa and his Elf, a photobooth, and ornament customization. The purpose of this event is to create a festive and memorable experience for shoppers, enhance customer engagement, and strengthen the brand's connection with its audience during the holiday season.",No,no,entertainment,local,onsite,theatre,,no,"Yara Doughman
+yara.doughman@azadea.com",other,12/8/24 15:00,12/8/24 20:00,Dubai Hills Mall,Lefties Store,Dubai,no,,yes,no,no,,yes,,,,,,12/4/24 6:36,12/4/24 6:36,no,comedy,,,,,0.0,,,,"Aya Maria Melki
+aya.melki@boopin.com 
+0582688006",,12/4/24 6:49,12/4/24 6:49,,
+171,Usama,Selim,5,Rotana audio visual l.l.c,,One by Omnyat business bay 28 03,,Dubai,Uae,97144515000,Usama.roshdy@rotana.net,New year concert,,Rotana audio visual,1000,2,0,New Year's concert organized by Rotana Audio Visual LLC to celebrate New Year. There will be 2 singers performing on stage,No,no,entertainment,local,onsite,music,,no,"Usama Roshdy abdou selim
+971509105656
+Usama.roshdy@rotana.net",other,12/31/24 20:00,1/1/25 3:00,The Ritz-Carlton DIFC,Samaya ballroom,Dubai,no,,no,yes,yes,,yes,yes,,"2000
+2500
+3000
+3500
+4000
+4500
+5000",,60.0,12/7/24 0:00,12/31/24 0:00,yes,,,,,arabic-classical,0.0,,,,"Usama Roshdy abdou selim
+971509105656
+Usama.roshdy@rotana.net",,12/6/24 8:34,12/6/24 8:34,,
+172,Matthew,Daniel,5,Sapphire Skies Management,,Dubai Science Park,,Dubai,UAE,508266978,Sapphiresmdxb@gmail.com,Christmas Event,,Sapphire Skies Management,200,2,2,"Internal company along with Rotary UAE Christmas event.
+There will be an internal raffle draw for a naval car, raffle ticket sale for 250/-",,no,entertainment,local,onsite,awardCeremony,,yes,"Matthew Daniel
+Sapphiresmdxb@gmail.com
+0508199637",other,12/21/24 18:00,12/21/24 23:25,"Jumeirah Creekside Hotel, Al Garhoud",Secret Garden,Dubai,no,,yes,no,no,No,no,,,,,,12/10/24 8:55,12/10/24 8:55,no,,,,,,0.0,,,,"Matthew Daniel
+Sapphiresmdxb@gmail.com
+0508199637",,12/10/24 9:00,12/10/24 9:00,,
+173,Paula,Goudie,5,Laborie Medical technologies,,Colosseum 25,7521 PV,Enschede,The Netherkands,4.48E+11,pgoudie@laborie.com,Laborie Dubai Distributor Meeting 2025,,Laborie Medical technologies,50,0,5,Business Updates for Laborie distributors as well as the opportunity to provide distributors with awards for their successes in 2024.,No,no,business,international,onsite,,meeting,yes,"Mosaad Elsayed, melsayed@laborie.com, +971563773977",medical,1/25/25 9:00,1/26/25 13:15,"Sheraton Grand Hotel, Dubai",Starlight Ballroom,Dubai,no,,yes,yes,yes,No,no,,,,,,12/12/24 16:51,12/12/24 16:51,no,,,,,,0.0,,,,"Paula Goudie, pgoudie@laborie.com, +447583122126",,12/12/24 16:58,12/12/24 16:58,,
+174,Tia',Gamble,4,Kajabi,,880 Newport Center Drive,Suite 100,Newport Beach,United States of America,2145982035,tia.gamble@kajabi.com,Kajabi Sessions Dubai,,Kajabi,75,0,11,"Kajabi Sessions is an exclusive, intimate event designed to empower our global Kajabi Heroes (members) four times a year through expert insights, networking opportunities, and collaborative sessions. The event aims to strengthen community bonds, provide actionable strategies for business growth, and deep discussions about the latest tools.
+
+Purpose: Member Meetup
+Topics: Business obstacles, strategies, and tools for entrepreneurs and creators (our members are entrepreneurs and creators)
+Benefits: Community, Masterminds, Workshops, and Networking",No,no,business,international,onsite,,meeting,yes,"Tia' Gamble
+Tia.gamble@kajabi.com
++1 214 598 2035",other,1/8/25 8:30,1/9/25 16:00,Grosvenor House,Windsor 2,Dubai,no,,no,yes,no,No,no,yes,,General - 900 AED,General - 75,15.0,12/12/24 0:00,1/6/25 0:00,no,,,,,,0.0,,,,"Tia' Gamble
+Tia.gamble@kajabi.com
++1 214 598 2035",,12/12/24 21:08,12/12/24 21:08,,
+175,Amitabh,Jain,4,Rally Sports Venture LLC,,50 Promise Way,Kendall Park,New Jersey,USA,(732)581-3325,contact@rallysportsventure.com,Pickleminds Dubai Forum,https://pickleballminds.com/en/,Rally Sports Venture LLC,200,1,32,"Join us for the B2B Pickleball Industry Forum, the ultimate event for industry leaders, innovators, and enthusiasts. Connect, collaborate, and explore opportunities to grow the sport and business of pickleball. Don‚Äôt miss this chance to network, share insights, and shape the future of play!",Attentive,no,business,international,onsite,,forum,no,"Amitabh Jain
+(732) 581-3325
+aj@rallysportsventure.com",other,1/16/25 8:00,1/16/25 18:00,Taj Dubai Business Bay,Ballroom,Dubai,yes,,no,yes,yes,Yes,yes,yes,https://www.eventbrite.com/e/pickleball-minds-dubai-chapter-2025-registration-951712556877?aff=oddtdtcreator,"Early Bird $600 USD
+
+Regular Registration $910 USD",,100.0,12/17/24 0:00,1/16/25 0:00,no,,,,,,0.0,,,,"Yashar Rezaie
+(305) 606-2856
+yashar@jordanadvertisinggroup.com",,12/17/24 14:59,12/17/24 14:59,,
+176,Arthur,Bates,5,Smithers Information Ltd,,Olympus House,"Cleeve Road,",Select One,United Kingdom,1372802031,abates@smithers.com,Sustainability in Packaging MENA,https://www.sustainability-in-packaging.com/mena,Smithers,150,0,50,"Sustainability in Packaging MENA event aims to bring together key stakeholders from across the entire value chain to discuss important topics and issues impacting sustainable packaging in these regions.
+
+2025 EVENT TOPICS WILL INCLUDE but not limited to  Global packaging market trends and regulations - Circular economy and packaging - Recycling - Regulatory framework in the MENA regions - Extended Producer Responsibility (EPR) in the MENA region - How to successfully implement EPR systems? - Existing waste management infrastructures in the MENA region ‚Äì Initiatives and collaborations - Differences and developments in mechanical recycling and chemical recycling.
+
+People are attending the event to learn about whats new in the industry  and connect for potential new business opportunities for companies that work in the North Africa and Middle East.",No,no,business,regional,onsite,,"conference, exhibition, networking",no,"ArArthur Bates
+
+Arthur Bates
+abates@smithers.com
++4407545543968",other,5/21/25 8:00,5/22/25 17:00,Jumeirah Creekside Hotel,Night and Day Ballroom,Select One,yes,,no,yes,yes,no,other,yes,https://www.sustainability-in-packaging.com/mena/ticket-prices,"Early Bird (Expires 28 February 2025) $849 USD
+Standard Fee (Expires 2 May 2025) $999 USD
+Final Fee (Runs till event) $1,149 USD","Early Bird (Expires 28 February 2025) 35%
+Standard Fee (Expires 2 May 2025) 30%
+Final Fee (Runs till event) 35%",,12/19/24 0:00,5/22/25 0:00,no,,,,,,0.0,,,,"Arthur Bates
+abates@smithers.com
++4407545543968",,12/19/24 13:27,12/19/24 13:27,,
+177,Ajmal,S,4,ENotion Events,,The Meydan Hotel,Meydan free zone,Dubai,UAE,502185245,info@enotionevent.com,??????? ??????? ?????????: ?????'? ???? ?????????????? ??????,https://www.wpsauae.com/registration,ENotion events,150,0,0,"https://www.wpsauae.com/registration 
+
+its a full day event with speeches",no,no,business,international,onsite,,summit,no,"Ajmal, info@enotionevent.com, 0502185245","informationTechnology, science",2/21/25 9:00,2/21/25 17:00,Waldorf DIFC,Main ballroom,Dubai,yes,,no,yes,yes,,no,other,https://www.wpsauae.com/registration,https://www.wpsauae.com/registration,200 usd,,12/27/24 0:00,2/21/25 0:00,no,,,,,,0.0,,,,"Ajmal, info@enotionevent.com, 0502185245",,12/27/24 8:41,12/27/24 8:41,,
+178,Kirin,Hiliar,5,Heriot Watt University,,Al Sufouh - Knowledge Park - Dubai,,Dubai,United Arab Emirates,581942004,k.gianani@hw.ac.uk,International Psychology Conference Dubai (IPCD),https://www.psych-me.com/,Pure Magic Events,400,0,63,"The IPCD 2025 conference will explore the multifaceted dimensions of change, focusing on how psychological practices can adapt and thrive amidst these transformations. The discussions will cover a broad spectrum of changes, including technological advancements, societal shifts, individual transitions and global challenges.
+
+?
+
+IPCD 2025 aims to foster a collaborative environment where professionals can share insights, research, and innovative practices to address the complexities of change.",No,no,business,international,onsite,,"networking, conference, exhibition, seminar",no,"Kirin Hilliar 
+k.hilliar@hw.ac.uk
+0561031861","education, medical, other",2/22/25 9:00,2/23/25 20:00,Heriot Watt University,,Dubai,yes,,no,yes,no,,yes,yes,,"Speaker Tickets: 100 AED 2-day ticket standard price [no Early Bird prices]
+Professional Delegates - Sat 1-day ticket: 350 AED Standard price [275 AED Early Bird price]
+Professional Delegates - Sun 1-day ticket: 350 AED Standard price [275 AED Early Bird price]
+Professional Delegates - Weekend 2-day ticket: 600 AED Standard price [475 AED Early Bird price]	
+Student Delegates - Sat 1-day ticket: 150 AED Standard price [120 AED Early Bird price]
+Student Delegates - Sun 1-day ticket: 150 AED Standard price [120 AED Early Bird price]
+Student Delegates - Weekend 2-day ticket: 250 AED Standard price [200 AED Early Bird price]
+Heriot-Watt Student Delegates - Sat 1-day ticket: 5 AED [no Early Bird prices]
+Heriot-Watt Student Delegates - Sun 1-day ticket: 5 AED [no Early Bird prices]
+Heriot-Watt Student Delegates - Weekend 2-day ticket: 10 AED [no Early Bird prices]",,,1/6/25 0:00,2/23/25 0:00,no,,,,,,0.0,,,,"Kashvi Gianani
+k.gianani@hw.ac.uk
+0581942004",,1/2/25 10:16,1/2/25 10:16,,
+179,Aamir,Yaqoob,4,Eventure Events Management Services,,Ifza Business Park Dubai Silicon Oasis,Dubai Digital Park,Dubai,United Arab Emirates,9.72E+11,aamir@eventure-events.com,Zafco International Farewell Dinner -2025,,Eventure Events Management Services,59,2,2,The event is exclusive screening for the ZAFCO International ‚ÄúFarewell Dinner 2025‚Äù Product Preview Launch of Tires.,No,no,business,international,onsite,,productLaunch,yes,"Aamir yaqoob
+aamir@eventure-events.com 
++971 55 380 0312",automotive,1/17/25 18:00,1/17/25 22:00,Sofitel Dubai The Palm,The Palm Garden,Dubai,no,,yes,no,no,no,no,no,,,,,1/6/25 12:38,1/6/25 12:38,yes,,,,,,0.0,,,no,"Naveed Rahim
+naveed@eventure-events.com
++971 55 961 7559",,1/6/25 14:04,1/6/25 14:04,,
+180,Shaikha,Abdullah Mohamed Alnaboodah,5,Al Naboodah Commercial Group LLC,1.00E+14,"Al Naboodah Group Enterprises, Head Office,","Hatta Oman Road, Al Awir",Dubai,UAE,97142019480,faryal.batool@alnaboodah.com,Al Naboodah Staff Party,,Al Naboodah Commercial Group LLC,1000,6,0,Al Naboodah Commercial Group LLC has organized a Staff party event for their internal employees at Grand Hyatt Dubai on 19th Jan 2025. The event includes Dinner and entertainment.,No,no,entertainment,local,onsite,"djEvents, music, awardCeremony",,yes,Shaikha Abdullah Mohamed Alnaboodah / shaikha@alnaboodah.com / 042498888,other,1/19/25 17:00,1/19/25 21:00,Grand Hyatt Dubai,,Dubai,no,,yes,no,no,No,no,,,,,,1/14/25 9:29,1/14/25 9:29,no,,,dj-background,,world-music,0.0,,,,Faryal Batool / faryal.batool@alnaboodah.com / 042019480,,1/14/25 10:05,1/14/25 10:05,,
+181,Dana,El Melki,4,Deloitte,1.00E+14,"Deloitte Professional Service (DIFC) Limited Currency House, Building 1, Level 5 DIFC, P.O. Box: 112865 Dubai, United Arab Emirates",,Dubai,UAE,509376911,delmelki@deloitte.com,Financial Crime Symposium,,Deloitte,150,0,12,"We are delighted to host the eighth Financial Crime Symposium in Dubai, which brings together the leading stakeholders across the anti-financial crime ecosystem.
+During the half day event, we will discuss the impacts of financial crime on our society, the evolving risk landscape, and the innovations we can collectively leverage to strengthen citizen well-being, meet regulatory compliance obligations, and enhance the security and prosperity of the UAE economy.
+The Symposium will delve into significant developments within the financial crime domain, encompassing topics such as trade-based financial crime, proliferation financing, and the progress made on Generative AI to support organizations in realizing efficiencies. 
+We will also showcase Generative AI models and use cases across CDD, transaction monitoring, and screening. Our guests will learn practical strategies for supporting compliance and risk programs, countering emerging threats, and fostering greater transparency and trust.",no,no,business,regional,onsite,,"conference, networking, seminar",yes,"Khushnood Khan
+khushkhan@deloitte.com
++971501283009","financials, education, science, other",2/13/25 7:00,2/13/25 12:00,Address Dubai Mall (formerly known as Address Fountain Views),,Dubai,yes,,yes,yes,yes,Yes,yes,,,,,,1/14/25 13:02,1/14/25 13:02,yes,,,,,,0.0,,,,"Dana El Melki
+delmelki@deloitte.com
+0509376911",,1/14/25 13:24,1/14/25 13:24,,
+182,KENNETH,WRIGHT,4,Mi Hub,,3 LONG ACRE,"Willow Farm Business park,",Castle Donington,United Kingdom,4.48E+11,ken.wright@mihubglobal.com,Mi Hub Global Partners Summit,,Mi Hub Ltd,59,0,6,"Presentations from the Mi Hub senior leadership team:
+Sharing our vision of the future, customer and market insights.
+Inviting partners to showcase their new product developments and innovations.",,no,business,international,onsite,,conference,no,"Kenneth Wright
+ken.wright@mihubglobal.com
++447920086616",other,5/12/25 9:00,5/13/25 18:00,"Le Royal Meridian Beach Resort & Spa, Dubai",Al Sarab,dubai,yes,,yes,yes,yes,Yes badge printing including the barcode,no,,,,,,1/17/25 10:50,1/17/25 10:50,yes,,,,,,0.0,,,,"Kenneth Wright
+ken.wright@mihubglobal.com
++447920086616",,1/17/25 12:11,1/17/25 12:11,,
+183,Alessia,Vicentelli,4,Miracle Tourism,,"Thuraya Telecommunications Tower 15787 ,76911,","Al Thanyah First, BARSHA HEIGHTS","Dubai,","United Arab Emirates, 454348",+971 504675955,alessia.vicentelli@dtservices.travel,DERTOUR PARTNER EVENT 2025,,Sofitel Dubai The Palm,150,1,1,DER Germany is planning a partner appreciation and awards event on the 30th January 2025 in Sofitel Dubai The Palm to present our developments in the UAE and the future plans for the destination.,No,no,"business, entertainment",local,onsite,djEvents,networking,no,"Ms. Alessia Vicentelli
++971 504675955
+alessia.vicentelli@dtservices.travel",other,1/30/25 17:00,1/30/25 23:00,Sofitel Dubai The Palm,Moorea Ballroom,Dubai,no,,yes,no,no,,no,,,,,,1/21/25 14:49,1/21/25 14:49,yes,,,dj-background,,,0.0,,,,"Nitin Baneshi
++971 58 807 0870
+Nitin.baneshi@Sofitel.com",,1/21/25 16:01,1/21/25 16:01,,
+184,Mohammad khurram,Ilyas,4,captive events organizing and managing,,"Contact Us  Office 439, 4th Floor, Al Barsha Business Center, Al Barsha 1, Dubai, 122002",321,Dubai,United Arab Emirates,058 173 2763,Captiveeventsofficial@gmail.com,DCD GALA,https://www.captiveevents.com/,captive events organizing and managing,3000,5,3,"DCD Gala, an exclusive exhibition dedicated to showcasing the finest in home decor, designer apparel, perfumes, cosmetics, and jewellery. This event will take place on February 7th and 8th, 2025, at the prestigious Swissotel, Al Ghurair Centre, Dubai.
+
+The DCD GALA promises a unique platform to introduce your brand to a diverse audience. We‚Äôve planned extensive social media coverage, including prominent influencers and paid advertising, as well as promotional events to ensure high visitor footfall.",no,no,business,local,onsite,,exhibition,no,Mohammad khurram ilyas,artDesign,2/7/25 11:00,2/8/25 21:00,Swissotel deira dubai,,Dubai,yes,,yes,no,no,no,yes,,,,,,1/22/25 6:53,1/22/25 6:53,yes,,,,,,0.0,,,,"Mr fahad
+
++971 52 687 5364",,1/22/25 7:02,1/22/25 7:02,,
+185,Oybek,Ikhtiyorov,5,IT Park Uzbekistan,,"Tepamasjid 4A,",100164,Tashkent,Uzbekistan,9.99E+11,o.Ixtiyorov@outsource.gov.uz,Uzbekistan Tech Conference,,IT Park Uzbekistan,100,0,6,"Event from from IT PARK Uzbekistan, Central Asia's leading IT Outsourcing Hub, operating with the support of the Ministry of Digital Technologies.
+Uzbekistan is rapidly emerging as a global tech hub, offering a unique 0% tax environment that presents an exceptional opportunity for businesses like yours to explore new growth avenues in one of the most dynamic regions for tech services worldwide.
+
+This conference will showcase the vast potential of Uzbekistan‚Äôs tech sector, which is fueled by a diverse talent pool of 21 million working-age individuals. 
+
+Moreover, the Uzbek government offers several support initiatives, including zero risk with 12 months of complimentary office space and reimbursement for HR expenses.
+
+The event will provide valuable insights into the country's tech landscape, while offering you unparalleled networking opportunities and the chance to connect with key stakeholders.
+
+We are confident that this conference will be a game-changing opportunity for your company to explore the immense potential of Uzbekistan‚Äôs thriving tech ecosystem.","Ministry of Digital Technologies of Uzbekistan, CEO of IT Park Uzbekistan",no,business,international,onsite,,conference,no,"Kagirov Jakhongir
+j.kagirov@outsource.gov.uz",informationTechnology,2/13/25 14:00,2/13/25 19:00,DIFC Conference Centre,"Gate Village, H level",Dubai,no,,yes,no,no,,no,,,,,,1/30/25 10:56,1/30/25 10:56,yes,,,,,,0.0,,,,+998 97 420 30 00,,1/30/25 12:30,1/30/25 12:30,,
+186,Awais,Satiya,5,British Embassy -  Scotland Developement International,,British Embassy Dubai,Al Seef St,Dubai,UAE,585237913,awais.satiya@scotent.co.uk,Scottish Showcase Reception Evening,,Scottish Development International,200,1,2,"Showcasing Scotland Products 
+Networking evening with GCC trade buyers. distributors, importers 
+Building relationships with stakeholders",No,no,business,international,onsite,,networking,no,"Regina Villena
+regina.villena@sheratongranddubai.com
+O: 9714 503 4213   
+M: 971 56418 4524",other,2/18/25 18:00,2/18/25 23:00,"Sheraton Grand Hotel, Dubai",Ballroom,Dubai,yes,,yes,yes,yes,No,no,,,,,,2/4/25 5:07,2/4/25 5:07,yes,,,,,,0.0,,,,"Regina Villena
+regina.villena@sheratongranddubai.com
+O: 9714 503 4213   
+M: 971 56418 4524",,2/4/25 5:20,2/4/25 5:20,,
+187,Soehl,Abraham,5,Heriot Watt University Dubai,1.00E+14,Dubai Knowledge Park,Al Sufuoh,Dubai,UAE,506487017,sa269@hw.ac.uk,Watt Fest 2025,,Heriot Watt University Dubai,998,120,10,Watt Fest is a Music and Dance competition that invites university students all over the UAE to compete. The categories are Battle Of The Bands and Step It Up (Dance). The event will be followed by an after party for students.,No,no,entertainment,local,onsite,music,,no,"Soehl Abraham, sa269@hw.ac.uk, 0506487017",other,2/26/25 17:00,2/26/25 22:00,"The Agenda, Dubai Media City",,Dubai,no,,yes,yes,yes,No,yes,,,,,,2/4/25 5:43,2/4/25 5:43,no,,,,,rock-pop,0.0,,,,"Soehl Abraham, sa269@hw.ac.uk, 0506487017",,2/4/25 5:52,2/4/25 5:52,,
+188,June,Jiang,4,SZ&W Group,,China,,Select State,??,18616821557,junej@szwgroup.com,Global Dairy Innovation Congress MENA 2025,,SZ&W,150,0,20,"The event is the 7th Global Dairy Innovation Congress MENA 2025, which is focusing on dairy industry development.  Under the theme of ‚ÄúHealthy, Nutritious, Sustainable‚Äù, the conference will cover topics about navigating the regulatory and market environment, product innovation, market trends and consumer insights. The event will gathering 100+ diverse participants, including government, associations, dairy equipment and technology suppliers, consultant, and investors.",NO,no,business,international,onsite,,congress,no,Jiang Lin Dou 0086 18616821557 junej@szwgroup.com,other,4/8/25 9:00,4/9/25 17:00,Swiss√¥tel Al Ghurair,,Select State,yes,,partial,yes,yes,NO,no,,,"Most Atendees are Free
+Few around 300AED",,,2/4/25 0:00,4/4/25 0:00,yes,,,,,,0.0,,,,June Jiang 0086 18616821557 junej@szwgroup.com,,2/4/25 12:03,2/4/25 12:03,,
+189,Parag,Vernekar,5,Ahmad Tea FZ-LLC,1.00E+14,F13 St.,"PLC54, Al Hamra Industrial Zone-FZ",Ras Al Khaimah,United Arab Emirates,97172059400,parag@ahmadtea.ae,Gala Dinner,,Ahmad Tea,100,3,0,Gala Dinner for customers/distributors/UK HO staffs/UAE staffs/Management attending the Gulfood 2025,No,no,business,international,onsite,,meeting,yes,Tracey Wakelin / tracey.wakelin@ahmadtea.com / +447769709988,other,2/19/25 19:00,2/19/25 23:00,Conrad Hotel,The Avery,Dubai,no,,yes,no,no,No,no,,,,,,2/4/25 11:16,2/4/25 11:16,yes,,,,,,0.0,,,,Parag Vernekar / parag@ahmadtea.ae / 0562076055,,2/4/25 12:10,2/4/25 12:10,,
+190,Amala,Nazareth,4,African Federation of Obstetricians and Gyneacologists,,"c/o Flat 310 Marwah, Building number 28","24/c street, Al Rafaa",Dubai,UAE,9.72E+11,dr.amala@hotmail.com,AFOG SAFOG Congress,www.afog-safog2025dubai.com,AFOG,300,0,20,Regional Congress for medical doctors working in obstetrics and gyneacology.,No,no,business,regional,onsite,,"congress, conference",no,"Dr Amala Nazareth
+Ph +971 50 2842272
+email: dr.amala@hotmail.com",medical,2/20/25 8:00,2/22/25 22:00,Jafza One,,Jafza One,yes,,no,yes,yes,No,no,yes,https://afog-safog2025dubai.com/register/,"USD 185.00
+AFOG/SAFOG Members
+
+USD 315.00
+Other Non Member Countries
+
+USD 105.00
+Students/Trainees/Midwives/Nurses/Other HCPs (with valid ID)
+
+USD 120.00
+Congress Gala Dinner
+(Per Person)","USD 185.00
+AFOG/SAFOG Members
+250 tickets
+
+USD 315.00
+Other Non Member Countries
+20 tickets
+
+USD 105.00
+Students/Trainees/Midwives/Nurses/Other HCPs (with valid ID)  
+30 tickets
+
+USD 120.00
+Congress Gala Dinner
+30 tickets",0.0,2/6/25 0:00,2/20/25 0:00,yes,,,,,,0.0,,,,"Johan Vos
+Ph +44 7 436099686
+email: johan.v@afogfdn.org",,2/5/25 14:35,2/5/25 14:35,,
+191,IBPC,Dubai,5,Indian Business and Professional Council (IBPC) Dubai,1.00E+14,"Hotel Taj Dubai, Burj Khalifa Street,","Business Bay, Dubai, 25414, Dubai",Dubai,UAE,9.72E+11,office@ibpcdubai.com,IBPC Corporate Quiz 2025,https://www.ibpcdubai.com/cq2025/,Indian Business and Professional Council,400,0,3,"This event is a quiz competition. It is an exhilarating challenge of wits, knowledge, and creativity. The second edition of the IBPC Corporate Quiz 2025, a one-of-a-kind event that promises to test and celebrate the sharpest minds.
+The competition will begin with a 1st round elimination, which will be a pen-and-paper round, followed by the Grand Finale, where the top 8 participants will compete for the ultimate prize. The details of the pen-and-paper round will be explained by the Quiz Master at the venue.",2,no,business,local,onsite,,conference,no,"Indian Business and Professional Council (IBPC) Dubai
+office@ibpcdubai.com / sm@ibpcdubai.com
++971553433524 / +971505585745",other,2/16/25 14:00,2/16/25 19:00,"Taj Exotica Resort & Spa, The Palm, Dubai - UAE",1,Dubai,yes,,yes,yes,yes,No,no,,,,,,2/6/25 8:01,2/6/25 8:01,no,,,,,,0.0,,,,"Indian Business and Professional Council (IBPC) Dubai
+office@ibpcdubai.com / sm@ibpcdubai.com
++971553433524 / +971505585745",,2/6/25 8:29,2/6/25 8:29,,
+192,Christine,Vitug,5,GUARANTEE TRAVEL DMCC,1.00E+14,"HDS Business Center 1, JLT - PHI - M1A","Cluster M, Jumeirah lakes towers,  336640",Dubai,United Arab Emirates,9.72E+11,operations6@guarantee-tours.com,BLEEDING MANAGEMENT SUMMIT 2025,,HIKMA PHARMACEUTICALS,110,0,3,"The Bleeding Management workshop taught participants essential skills for handling bleeding emergencies. It covered bleeding assessment, wound care, pressure techniques, and when to seek medical help. The session also focused on advanced methods like hemostatic agents and tourniquets. Through demonstrations and hands-on practice, attendees gained the confidence to respond effectively in critical situations, improving their emergency preparedness and life-saving abilities.",NO,no,business,international,onsite,,summit,no,Christine Vitug,medical,2/21/25 9:00,2/22/25 14:30,Hyatt Regency Dubai Creek Heights,ARYAM BALLROOM,DUBAI,no,,yes,yes,yes,NO,no,,,,,,2/7/25 10:16,2/7/25 10:16,yes,,,,,,0.0,,,,operations6@guarantee-tours.com / +971 52 758 1972,,2/7/25 10:30,2/7/25 10:30,,
+193,Ahmed,Abudaff,4,HAfla DMCC,,Dubai,JLt,Dubai,United Arab Emirates,562732899,ahmed.abudaff@hafla.com,Rotary Club of Dubai Gala Dinner,rotary.ae/calendar,"Rotary Club of Dubai Gala Dinner Brief Summary  The Rotary Club of Dubai, under the Association of Rotary Clubs UAE, will host its prestigious Gala Dinner on February 22, 2025, at The Raffles Hotel Ballroom. This exclusive event is designed for Rotary members and their friends, offering a night of c",200,0,3,"Rotary Club of Dubai Gala Dinner Brief Summary
+
+The Rotary Club of Dubai, under the Association of Rotary Clubs UAE,
+will host its prestigious Gala Dinner on February 22, 2025, at The
+Raffles Hotel Ballroom. This exclusive event is designed for Rotary
+members and their friends, offering a night of celebration and
+connection and entertainment.
+A key highlight of the evening will be a special auction, where all
+proceeds will go towards supporting essential initiatives in community
+development, healthcare, and education reinforcing Rotary‚Äôs
+commitment to creating lasting, positive change in the community and
+beyond.",no,no,business,local,onsite,,"auction, networking",yes,"Hassan El Amil - +97156666624
+Lebanese, hassanelamil@outlook.com",other,2/22/25 18:00,2/22/25 23:30,Raffles Oud Metha,Ballroom,Dubai,no,,yes,no,no,,no,,,,,,2/8/25 12:44,2/8/25 12:44,no,,,,,,0.0,,,,"Ahmed Abudaff
+Ahmed.abudaff@hafla.com
+0569927652",,2/8/25 12:50,2/8/25 12:50,,
+194,Pooja,More,4,British Council,,"Tariq Bin Zayed Rd,",behind Dubai TV,Dubai,UAE,+971 506249903,pooja.more@britishcouncil.org,UK Alumni Awarding Ceremony,,TBC,100,10,25,"Purpose of event: UK Alumni Awarding ceremony. Tentative Agenda: The programme will start before Iftar (key notes, panel discussion) followed by Iftar and then continue with the agenda (the awarding ceremony, giving out certificates and trophies, videos to showcase successful stories, and probably an entertainment activity)",yes (VIP & VVIP),no,entertainment,international,onsite,awardCeremony,,no,"Asmaa Ibrahim 
+asmaa.ibrahim@ae.britishcouncil.org 
+T +971 50 616 5683",education,3/20/25 17:30,3/20/25 20:30,TBC,,Dubai,no,,yes,yes,yes,,no,,,,,,2/11/25 7:44,2/11/25 7:44,yes,,,,,,0.0,,,,"Pooja More
+pooja.more@britishcouncil.org 
+M: +971 50 624 9903",,2/11/25 8:01,2/11/25 8:01,,
+195,Faryal,Batool,5,Al Naboodah Commercial Group,,PO BOX 1200,,Dubai,UAE,97142019480,Faryal.batool@alnaboodah.com,Mobility fest 2025,,Silver Arrow for parties and entertainments services,1000,17,1,This is an internal event for the Al Naboodah group where they display their trucks and invite their family members. It is carnival themed with entertainments for the audience,No,no,business,regional,onsite,,"productLaunch, exhibition",yes,"Faryal batool
+Faryal.batool@alnaboodah.com
+0564144150",automotive,2/22/25 16:30,2/22/25 21:30,Grand Hyatt exhibition center,,Dubai,yes,,yes,yes,yes,No,yes,,,,,,2/16/25 14:07,2/16/25 14:07,yes,,,,,,0.0,,,,"Anmol Khaitan 
+Anmol@silverarrowevents.ae
+0545973015",,2/16/25 14:24,2/16/25 14:24,,
+196,Saurav,Prasad,15,Encardio Rite,,"Industrial Estate, A-7,","Talkatora Rd, Talkatora,","Lucknow, Uttar Pradesh 226011",India,8227861378,encardio.marketing@gmail.com,Safe Dubai,https://www.encardio.com/,Encardio Rite,100,5,9,"Dubai is a city of dreams, innovation and limitless ambition.
+
+But as we face the challenges of climate change and rapid urbanization, ensuring the safety and resilience of our iconic infrastructure has never been more critical. We all have a role to play in keeping Dubai ahead, ensuring its foundations remain as robust as its vision.
+
+Encardio Rite and the Society of Engineers-UAE are pleased to announce Safe Dubai, a one-day seminar to explore ideas and technologies critical to ensuring the safety of infrastructure in Dubai.
+
+????: 27th February 2025
+????: 10 AM - 4 PM
+?????: The Grand Hyatt, Dubai
+
+??? ?????? ???????
+- Policymakers
+- Urban Planners
+- Architects
+- Consultants
+- Infrastructure Developers and Owners
+- Civil Engineers
+- Environmental and Safety Consultants
+- Geotechnical and Structural Health Monitoring Companies
+
+Register today and be part of the conversation: https://lnkd.in/gQa2VAqp 
+
+This is a limited-seats event. Please share your details with us and invitations will be sent to your official email address based on availability.","Society of Engineers, UAE.",no,business,international,onsite,,seminar,no,"Saurav Prasad
+sauravpd1525@gmail.com
+8227861378",other,2/27/25 9:30,2/27/25 17:00,Grand Hyatt Dubai,"First Floor, Al Manzil","Oud Metha Road, Dubai Healthcare City Riyadh Street - Near Sheikh Rashid Rd, Dubai, Emirate of Dubai, AE",yes,,yes,yes,no,,no,,,,,,2/18/25 6:15,2/18/25 6:15,yes,,,,,,0.0,,,,"Saurav Prasad
+sauravpd1525@gmail.com
+8227861378",,2/18/25 6:30,2/18/25 6:30,,
+197,Tamika,Zilm,5,University of Wollongong in Dubai,,UOWD Building,Al Sufouh,Dubai Knowledge Park,United Arab Emirates,97142781757,TamikaZilm@uowdubai.ac.ae,Integrity Carnival,,ENAI WG Centre for Academic Integrity - UOWD Circle,150,0,3,"Integrity Carnival 2025 is a three-day event from 21st to 23rd March 2025, featuring the Integrity Debate Championship (InDeC‚Äô25), Ignite Integrity (I¬≤) Spring Camp, and Short Film Festival, aimed at fostering academic integrity, ethics, and leadership among K-12 students and universities. The event includes engaging debates, interactive workshops, a badging ceremony, and exciting awards, with online sessions on 21st and 22nd March and an onsite finale at University of Wollongong in Dubai on 23rd March.",,no,entertainment,local,onsite,awardCeremony,,no,"Please do not contact directly until after you have liaised with Tamika Zilm
+
+Dr. Zeenath Reza Khan
+Associate Professor
+School of Computer Science
+P +971 4 278 1935 (Direct)
+E ZeenathKhan@uowdubai.ac.ae",education,3/23/25 10:00,3/23/25 18:00,University of Wollongong in Dubai,Lecture Theatre,Dubai,no,,no,yes,no,,no,yes,Not yet created,Not yet determine,Not yet determine,15.0,3/10/25 0:00,3/20/25 0:00,no,,,,,,0.0,,,,"Tamika Zilm
+Senior Events Coordinator
+Student Engagement and Development Office
+P +971 4 278 1757 (Direct)
+E TamikaZilm@uowdubai.ac.ae",,2/20/25 13:48,2/20/25 13:48,,
+198,Anshul,Gupta,5,Mavip MEA LLC FZ,,Dubai,Dubai,Dubai,India,9893549408,gupta_ans@hotmail.com,AI  in Action,,SoftwareOne,35,0,4,It is corporate meeting and networking event for around 30-35 attendees,NO,no,business,local,onsite,,meeting,no,Shashank Shenoy,informationTechnology,2/26/25 11:06,2/26/25 16:00,Kempinski Central Avenue Dubai,,Dubai,no,,yes,yes,no,,no,,,,,,2/20/25 15:28,2/20/25 15:28,yes,,,,,,0.0,,,,Shashank Shenoy,,2/20/25 15:37,2/20/25 15:37,,
+199,Francis,Cabrera,5,Guarantee Travel,,Dubai,,????? ????,United Arab Emirates,528914031,operations5@guarantee-tours.com,TBA,,Guarantee Travel,300,1,2,Product launch for a real state company and will acknowledge the top performers of the previous quarter.,,no,"business, entertainment",local,onsite,"djEvents, music, awardCeremony",productLaunch,no,"Francis Cabrera
+Operations5@guarantee-tours.com
+0528914031",realEstate,3/18/25 18:06,3/18/25 22:00,Dubai,,????? ????,no,,yes,no,no,,no,,,,,,2/24/25 14:03,2/24/25 14:03,no,,,dj-background,,rnb-urban,0.0,,,,"Francis Cabrera
+Operations5@guarantee-tours.com
+0528914031",,2/24/25 14:09,2/24/25 14:09,,
+200,Laura,Pugh,15,Elite B2B Events,,Pembroke House,"Ty Coch Lane, Llantarnam Park Wa",Wales,United Kingdom,7388662640,laura@eliteb2bevents.com,Elite Datadog Gathering,,Elite B2B Events,37,0,0,"This is a business event for Datadog, we have sourced the venue for Ramadan and their clients will be invited to attend. No ticket costs but we will have lanyards with names so they can network effectively. Dinner and drinks for Non Exclusive Iftar at Jumeirah Beach Hotel.",No,no,business,regional,onsite,,networking,no,"Elite B2B Events Ltd
+Laura Pugh
+Laura@eliteb2bevents.com
++447388662640",informationTechnology,3/12/25 18:30,3/12/25 20:30,Jumeirah Beach Hotel,Non Exclusive Iftar,Dubai,yes,,yes,yes,yes,Yes 1 hostess for registration desk,no,,,,,,2/25/25 14:15,2/25/25 14:15,no,,,,,,0.0,,,Ramadan Celebration,"Raquel Tristan
+Sales Manager - Conversion
+Jumeirah Beach Hotel
+M: +971 55 500 8529",,2/25/25 15:06,2/25/25 15:06,,
+201,AHMED,Elkhatib,4,DTS Tourism LLC,1.00E+14,lake central Tower 1105,Business Bay - Marasi Drive,Dubai,United Arab Emirates,502413194,ahmedjatib@gmail.com,Pan Liu,https://dtstourism.com/,Pan Liu,115,1,1,"this is a gathering of the group of church members, by the Pastor Pan Liu, for prayer only",no,no,entertainment,international,onsite,amusement,,no,Pan Liu Yuh Shya,other,3/9/25 9:00,3/9/25 16:00,Media Rotana Hotel Ballroom,Ballroom,Dubai,no,,yes,no,no,,no,,,,,,2/25/25 15:45,2/25/25 15:45,no,,,,play-area,,0.0,,,,Pan Liu Yuh Shya,,2/25/25 16:00,2/25/25 16:00,,
+202,Louise,Moore,5,"NWEA, a division of HMH",,Trinity Central,152-160 Pearse St,Dublin 2,Ireland,35312405900,louise.moore@hmhco.com,NWEA User Conference,,"NWEA, a division of HMH",149,0,5,"MAP¬Æ Growth‚Ñ¢ has set the standard for measuring performance and growth in K‚Äì12 math, reading, language usage, and science. During this one-day professional learning user conference, attend three sessions designed to translate MAP Growth literacy insights, including MAP Reading Fluency into practical classroom improvements and elevate your data to improve student achievement. Meet with NWEA experts and gain actionable strategies to support the school's system and to support your professional growth.",No,no,business,regional,onsite,,"conference, seminar, summit",no,"Louise Moore
+Sr. Director, Product Marketing - International Markets 
+louise.moore@hmhco.com
++353873745775",education,4/19/25 8:00,4/19/25 17:00,"Sheraton Grand Hotel, Dubai  No. 3 Sheikh Zayed Road, PO Box 123979  Dubai, United Arab Emirates",,Dubai,yes,,no,yes,yes,"Note - We plan on printing paper name badges, no RFID. Expect for name badges to be printed in advance of the event and picked up as attendees enter the event.  Open to exploring what costs are involved in the event",other,yes,Website to be updated but will be through this link: https://nwea.cventevents.com/Pmbd5m,"General Admission: USD $249 (approx 915 AED based on currency converter March 5)
+Early Bird Rate: USD $199 (approx 731 AED based on currency converter March 5)","Early bird will be open for approx 1 week, so it will depend on how many tickets are sold during that period.",18.0,3/11/25 0:00,4/11/25 0:00,no,,,,,,0.0,,,,"Louise Moore
+Sr. Director, Product Marketing - International Markets 
+louise.moore@hmhco.com
++353873745775",,3/5/25 12:40,3/5/25 12:40,,
+203,Mazen,Hamdan,5,International Mint And Print LLC,1.04E+14,"2nd floor, falcon house","DIP, Dubai Investment Park",Dubai,UAE,9.72E+11,Mhamdan@mintandprint.com,The Currency Fair,thecurrencyfair.com,International Mint And Print LLC,1500,0,0,"The Currency fair is an international event that hosts various exhibitors, mainly international mints, both private and state owned, as well as international and regional dealers. The event will be held at the Sheraton Grand hotel for three days (11-13 April) .
+The attendance will be mainly collectors and fans of the hobby, and other interested parties.",No,no,business,international,onsite,,exhibition,no,"Mazen Hamdan
+058 520 7895",other,4/11/25 10:00,4/13/25 18:00,Sheraton Grand Hotel,Ballroom,Dubai,yes,,no,yes,yes,Yes for badge printing and for registration desk,yes,yes,At the venue and through your payment link,"100AED for 3 days
+40 AED for one day","300 for three days
+400 per day",70.0,3/6/25 0:00,4/13/25 0:00,no,,,,,,0.0,,,,"Mazen Hamdan
+058 520 7895",,3/6/25 9:44,3/6/25 9:44,,
+204,Louise,Moore,5,"NWEA, A division of HMH",,"NWEA, A division of HMH IP Company","Trinity Central, 152-160 Pearse St, Dublin 2, Ireland",Dublin,Ireland,35312405900,louise.moore@hmhco.com,NWEA User Conference - Dubai,https://nwea.cventevents.com/Ox1dk3,"NWEA, a division of HMH",150,0,7,"MAP¬Æ Growth‚Ñ¢ has set the standard for measuring performance and growth in K‚Äì12 math, reading, language usage, and science. During this one-day professional learning user conference, attend three sessions designed to translate MAP Growth literacy insights, including MAP Reading Fluency into practical classroom improvements and elevate your data to improve student achievement. 
+Whether you are a new or an experienced user, the User Conference will provide an opportunity for Dubai educators to learn from NWEA experts as well as fellow schools, to gain actionable strategies to support the school's system and to support your professional growth.",No,no,business,regional,onsite,,"conference, seminar, summit",no,"Louise Moore
+Sr. Director, Product Marketing - International Markets 
+louise.moore@hmhco.com
++353873745775",education,4/19/25 8:00,4/19/25 17:00,"Sheraton Grand Hotel, Dubai  No. 3 Sheikh Zayed Road, PO Box 123979  Dubai, United Arab Emirates",,Dubai,yes,,no,yes,yes,"Yes we will have a registration desk to mark people as attended, for those who have registeed in advance.  Note - We plan on printing paper name badges, with the QR code provided by TicketMagic",no,yes,https://nwea.cventevents.com/Ox1dk3,"General Admission: USD $249 (approx 915 AED based on currency converter March 5)
+Early Bird Rate: USD $199 (approx 731 AED based on currency converter March 5)","Early bird will be open for approx 1 week, so it will depend on how many tickets are sold during that period.",20.0,3/10/25 0:00,4/11/25 0:00,no,,,,,,0.0,,,,"Louise Moore
+Sr. Director, Product Marketing - International Markets 
+louise.moore@hmhco.com
++353873745775",,3/10/25 16:55,3/10/25 16:55,,
+205,Louise,Moore,5,"NWEA, a division of HMH",,"NWEA, A division of HMH IP Company","Trinity Central, 152-160 Pearse St, Dublin 2, Ireland",Dublin,Ireland,35312405900,louise.moore@hmhco.com,NWEA User Conference - Abu Dhabi,https://nwea.cventevents.com/B9BkE1,"NWEA, a division of HMH",200,0,7,"MAP¬Æ Growth‚Ñ¢ has set the standard for measuring performance and growth in K‚Äì12 math, reading, language usage, and science. During this one-day professional learning user conference, attend three sessions designed to translate MAP Growth literacy insights, including MAP Reading Fluency into practical classroom improvements and elevate your data to improve student achievement. 
+Whether you are a new or an experienced user, the User Conference will provide an opportunity for Abu Dhabi educators to learn from NWEA experts as well as fellow schools, to gain actionable strategies to support the school's system and to support your professional growth.",No,no,business,regional,onsite,,"conference, summit, seminar",no,"Louise Moore
+Sr. Director, Product Marketing - International Markets 
+louise.moore@hmhco.com
++353873745775",education,4/23/25 8:00,4/23/25 17:00,Rosewood Abu Dhabi. Al Maryah Island. PO Box 41184. Abu Dhabi. United Arab Emirates,,Abu Dhabi,yes,,no,yes,yes,"Yes we will have a registration desk to mark people as attended, for those who have registeed in advance.  Note - We plan on printing paper name badges, with the QR code provided by TicketMagic",no,yes,https://nwea.cventevents.com/B9BkE1,"General Admission: USD $249 (approx 915 AED based on currency converter March 5)
+Early Bird Rate: USD $199 (approx 731 AED based on currency converter March 5)","Early bird will be open for approx 1 week, so it will depend on how many tickets are sold during that period.",20.0,3/10/25 0:00,4/11/25 0:00,no,,,,,,0.0,,,,"Louise Moore
+Sr. Director, Product Marketing - International Markets 
+louise.moore@hmhco.com
++353873745775",,3/10/25 16:56,3/10/25 16:56,,
+206,Da,Koroleva,5,University of Wollongong in Dubai,,Knowledge Village,UOWD Building,Dubai,United Arab Emirates,558460698,DariaKoroleva@uowdubai.ac.ae,UOWD Teacher Conference 2025,,University of Wollongong in Dubai,120,0,40,"UOWD Teacher Conference 2025 is a platform designed to bring teachers together to share, learn, and collaborate on innovative teaching practices. This conference provides a space for teachers across the UAE to present their best classroom practices, engage in professional development workshops, and participate in discussions that shape the future of education.
+With a focus on key themes that define modern education, the conference will explore cutting-edge teaching strategies, digital transformation, social and emotional learning, and inclusive education. Participants will gain insights from expert speakers, network with peers, and engage in hands-on workshops aimed at enhancing teaching effectiveness.",no,no,business,local,onsite,,conference,no,"Daria Koroleva, 055 846 06 98, DariaKoroleva@uowdubai.ac.ae",education,6/20/25 8:30,6/20/25 17:00,UOWD Campus,,Dubai,no,,no,yes,no,no,no,,,,,,3/18/25 8:15,3/18/25 8:15,no,,,,,,0.0,,,,"Daria Koroleva, 055 846 06 98, DariaKoroleva@uowdubai.ac.ae",,3/18/25 8:26,3/18/25 8:26,,
+207,Ahmed,Abudaff,4,River Ventures,,"DMCC, Dubai",,Dubai,United Arab Emirates,569927652,ahmed.abudaff@hafla.com,SEZ Dubai,https://lu.ma/27sea0j1,Hafla DMCC,200,0,30,"Two weeks of groundbreaking sessions where national economies meet blockchain innovation. Important: apply for a General Admission Ticket, not individual days.",no,no,business,international,onsite,,"networking, forum, exhibition",no,"Alex Scott
+alex@riverventures.co
++971 50 553 0064",other,4/14/25 0:00,4/25/25 23:59,"Shaikh Rashid tower, DWTC","World Trade Club - 33th Floor,",Dubai,yes,,yes,yes,yes,no,no,,,,,,3/21/25 9:08,3/21/25 9:08,no,,,,,,0.0,,,,"Ahmed Abudaff
+Ahmed.abudaff@hafla.com
++971569927652",,3/21/25 9:18,3/21/25 9:18,,
+208,Roberto,Gleria,4,Double Decker Event Management,1.00E+13,Unit 2A Building 23 FAB Properties,,Dubai,United Arab Emirates,97142882886,info@thedoubledecker.com,KONE KIckOff Event,,KONE Middle East LLC,150,0,2,"Company Annual Kickoff Event of KONE
+Kone Middle East LLC is a global leading manufacturer of premium escalators and lifts. The event is to bring together their internal management & field teams to kick of the 2025 season and discuss strategies¬†and¬†products",NO,no,business,local,onsite,,summit,yes,"El Omar Mohamad, 
+mohamad.elomar@kone.com
+0569946471",safetySecurity,4/15/25 9:00,4/16/25 18:00,Grosvenor House,Windsor Ballroom,Dubai,no,,yes,no,no,,no,,,,,,3/21/25 10:21,3/21/25 10:21,no,,,,,,0.0,,,,"Roberto Gleria, 
+roberto@thedoubledecker.com
+0505056872",,3/21/25 10:45,3/21/25 10:45,,
+209,Dinara,Yangibayeva,4,Samo,,Biskek,A Abaya 38,Bishkek,Kirgiziya,99365582256,samodinara@gmail.com,Samo,worldsamo.com,Samo,150,1,1,Bish sohvsohvoah ohs oh eon sohvoa ohe ohs oh son oan own pan phsvpwjvpwjvpje ph spjs papjvwpjvowjvowj phwvpjwvpjvwpjvwpjvphvsojvojsbejjdj,Nj,other,business,international,onsite,,conference,no,Dinara Yangibayewa +9936558256,other,4/21/25 15:22,4/25/25 15:22,Swissotel al Ghurair  Dubai Beira,,Dubai,no,,no,no,no,No,yes,yes,,Free,,,4/21/25 0:00,4/25/25 0:00,no,,,,,,0.0,,,,Anna Sharyy,,3/26/25 12:25,3/26/25 12:25,,
+210,Jacquelyn,Berry,5,Advanced Neuropsychological Treatment Services / Berry & Berry,,470 Liverpool Rd,NSW 2136,Strathfield South,Australia,15187556022,jackieberry@aucegypt.edu,ADHD: Measuring Attention in the Eyes,,Advanced Neuropsychological Treatment Services / Berry & Berry,90,2,2,"Attention deficit hyperactivity disorder (ADHD) is recognized as the most common behavioral problem in the UAE and the Arab region. ADHD is carried through to adulthood in a majority of cases and can cause severe problems such as underachievement, mental health disorders, and is even associated with lower lifespans. Self report is the most common way ADHD is diagnosed but this technqieu is extremely fallible and subjective and may carry with it the stigma of reporting one's symptoms. Using attentional control techniques developed by cognitive psychologists, including eye-tracking with special equipment is a better way to screen for ADHD. In this workshop we will be sharing with clinical psychologists how to properly screen for ADHD and demonstrating an eye-tracking procedure that can be adopted by most clinics.",No,no,business,local,onsite,,"seminar, productLaunch, exhibition",no,"Jamie Berry, +61408624309",medical,5/24/25 10:00,5/24/25 15:00,TBD,,Dubai,no,,no,yes,no,"Yes, QR code is preferred",no,yes,,General - 895 AED,75,,4/20/25 0:00,5/23/25 0:00,no,,,,,,0.0,,,,"Jacquelyn Berry, +15187556022",,3/30/25 8:19,3/30/25 8:19,,
+211,Mohamed,Zoughba,5,ITEvents,,Egypt,,Cairo,Egypt,2.01E+11,mohamevents.med.zoughba@ite,DICE,https://itevents.me/dice/,ITEvents,150,5,31,"Development of ICT conference and exhibition (DICE) , is the main BICSI Endorsed Event for the EMEA region during 2025 with the mission of creating awareness of ICT Standards & Best Practices in the community in the region.
+
+Having all ICT industry stakeholders under one roof will be a great opportunity for networking, sharing experiences, and raising the industry‚Äôs awareness level.
+
+ICT is the main layer for all current and future projects and if it is designed up to standards and best practices, it will be the road map for having sustainable solutions, which are ready to meet the increasing demand for sustainability and digitalization.
+
+Powered by IT Events, bringing together all the ICT leaders and stakeholders  through interesting seminars, and extensive exhibition areas!",NO,no,business,regional,onsite,,networking,no,"ITEvents
++20 109 738 8882
+info@itevents.me
+dona.takla@itevents.me","informationTechnology, telecommunicationServices",5/21/25 10:00,5/21/25 17:00,Habtoor Grand,Al Andalus Ballroom DE,No,no,,yes,yes,yes,no,no,,,,,,4/3/25 8:43,4/3/25 8:43,yes,,,,,,0.0,,,,"Mohamed Zoughba 
+Mohamed.zoughba@itevents.me
++201080293900",,4/3/25 9:25,4/3/25 9:25,,
+212,James,Cox,5,Work in football,,73 Wykeham Road,,Portsmouth,United Kingdom,7385452796,Jamescox@workinfootball.net,Work In Football LIVE,,Work In Football,100,0,6,"Networking event
+100 people
+This event is for students and aspiring professionals who want to work in the football industry",,no,business,international,onsite,,networking,yes,"James cox
+Jamescox@workinfootball.net
+07385452796",other,6/10/25 17:00,6/10/25 21:00,Brain and performance centre Dubai,,,no,,no,yes,yes,Na,no,no,Eventbrite,"Student AED 70
+Adult AED 90",,50.0,4/14/25 0:00,6/8/25 0:00,no,,,,,,0.0,,,,As above **,,4/7/25 9:52,4/7/25 9:52,,
+213,Mohamed,Zoughba,5,ITEvents,,Egypt,,Cairo,Egypt,2.01E+11,mohamed.zoughba@itevents.me,DICE,https://itevents.me/dice/,ITEvents,150,0,10,"DICE Dubai, a BICSI -endorsed event, will take place at Habtoor Hotel in Dubai on May 21-22, 2024, bringing together industry leaders, and experts to discuss sustainability, hospitality, smart cities, and modern data centers. Through panel discussions and keynote sessions, the event will explore innovations shaping these sectors, offering valuable insights and collaboration opportunities. Government organizations are encouraged to participate and contribute to these critical¬†conversations.",NO,no,business,international,onsite,,networking,no,"ITEvents
+Infto@itevents.me
++201097388882",informationTechnology,5/20/25 10:00,5/22/25 17:00,Habtoor Grand,Al Andalus Ballroom DE,No,no,,yes,yes,yes,no,no,,,,,,4/14/25 11:16,4/14/25 11:16,no,,,,,,0.0,,,,"Nermeen Ashraf
+nermeen.ashraf@itevents.me
++20 109 738 8885",,4/14/25 11:50,4/14/25 11:50,,
+214,Hasan,Elkhalili,5,EJOT Middle East FZE,1.00E+14,Sharjah International Airport Freezone,,Sharjah,United Arab Emirates,564124793,helkhalili@ejot.com,EJOT Event,,EJOT Middle East FZE,100,0,5,"Our event designed to showcase our latest engineering products tailored for the construction industry and to strengthen business relation with customers. The event will provide presentations on product features, performance, and applications. Our technical team will be available to answer all your questions. Attendees will benefit from hands-on demonstrations, networking opportunities, and exclusive insights into how our solutions can enhance project efficiency and reduce costs.",No,no,business,local,onsite,,"networking, seminar",no,"Hasan Sameer Mohammad ELkhalili, helkhalili@ejot.com, 0564124793",materials,5/15/25 17:00,5/15/25 22:00,Sheraton Grand Hotel,Starlight Ballroom,Dubai,yes,,yes,no,no,No,no,,,,,,4/17/25 12:51,4/17/25 12:51,no,,,,,,0.0,,,,"Hasan Sameer Mohammad ELkhalili, helkhalili@ejot.com, 0564124793",,4/17/25 13:24,4/17/25 13:24,,
+215,Jana,Awad,5,Guarantee Travel DMCC,,"JLT, Dubai",,Dubai,UAE,9.72E+11,operations9@guarantee-tours.com,Expert Session - HCP Meeting with Galderma Rx leaders,,Guarantee Travel DMCC,15,0,1,"This exclusive expert session is designed to foster meaningful dialogue between leading healthcare professionals and the Rx leadership team from Galderma. The meeting aims to:
+
+Share insights on the latest developments in dermatological therapeutics.
+
+Discuss clinical experiences and best practices with Galderma‚Äôs Rx portfolio.
+
+Gather valuable feedback and foster collaboration for future innovations.",No,no,business,international,onsite,,meeting,no,Jana Awad / operations9@guarantee-tours.com / +971528958905,medical,4/29/25 20:00,4/29/25 22:30,To be decided,,Dubai,no,,yes,no,no,,no,,,,,,4/21/25 11:20,4/21/25 11:20,no,,,,,,0.0,,,,Jana Awad / operations9@guarantee-tours.com / +971528958905,,4/21/25 11:26,4/21/25 11:26,,
+216,Ahmad,Belselah,4,Association of Rotary Clubs UAE,,"Attic 1 & 2, Jumeirah Creekside Hotel, Al Garhoud",,Dubai,United Arab Emirates,9.72E+11,rotaryd2452conference@gmail.com,12th District 2452 Conference,https://rotarydistrict2452.org/,Evinops DMCC,380,10,50,"Rotary International is a community service organization of 1.4 million business and professional leaders with high ethical standards, within 46,000 Rotary and Rotaract clubs in more than 200 countries. Together, we are united to provide humanitarian service, build goodwill, and promote peace worldwide.","Potentially His Highness Sheikh Ahmed bin Saeed Al Maktoum Chairman and CEO of Emirates Airlines & Group and Patron of Rotary Club of UAE, His Excellency Sheikh Nahyan bin Mubarak Al Nahyan, Minister of Tolerance and Coexistence, His Excellency Helal Al Marri, Director General of Dubai's Department ",no,"entertainment, business",international,onsite,"awardCeremony, djEvents","conference, networking, meeting",yes,"Ahmad Belselah, rotaryd2452conference@gmail.com, +971 50 240 1292",other,5/22/25 10:00,5/25/25 19:00,The Raffles Hotel,Ballroom A,Dubai,no,,no,yes,yes,No,no,yes,https://rotarydistrict2452.org/district-conference/,"Early bird (1,930AED)
+Regular (2.040AED)
+Late (2,186)","Early bird (60)
+Regular (120)
+Late (20)",40.0,4/23/25 0:00,5/22/25 0:00,yes,,,dj-background,,,0.0,,,,"Ahmed Abudaff, ahmed.abudaff@hafla.com, +971 58 853 8959",,4/23/25 8:49,4/23/25 8:49,,
+217,Balich,Wonder Studio,5,Balich WS,,2570 The Destination,"AL Imam Saud Ibn Faysal Road As Sahafa District,",Riyadh 13315,KSA,9.72E+11,karen.belli@balichws.com,Private Celebration of Arts,,Balich WS,120,35,2,"Private Celebration of Arts is a vibrant tribute to creativity, expression, and cultural diversity.
+It brings together artists from various disciplines: graffiti, music, dance, culture‚Äîto showcase their talent and inspire the community. This event not only highlights the beauty and power of the arts but also fosters a deeper appreciation for different perspectives and traditions. The Celebration of Arts serves as a reminder",na,no,entertainment,regional,onsite,"music, dance",,no,"Balich Wonder Studio KSA
+2570 The Destination, AL Imam Soud Ibn Faysal Road
+As Sahafa District, Riyadh 13315 KSA",artDesign,5/16/25 19:30,5/16/25 23:59,Sound Stage 3,Dubai Studio City,Dubai,no,,yes,yes,no,NO,no,,,,,,4/25/25 8:58,4/25/25 8:58,yes,,"belly-dance, modern-dance",,,"opera, world-music",0.0,,,UAE,"Karen BELLI Event Manager +971585774139
+karen.balli@balichws.com
+Alessandro PRINA : Executive Producer +966507683314
+alessandro.prina@balichws.com",,4/25/25 9:23,4/25/25 9:23,,
+218,TALIB,ALIYEV,5,BALICH WONDER STUDIO,,To be provided later,,Abu Dhabi,UAE,9.67E+11,talib.aliyev@balichws.com,Ferrari Regional Lounge Event,,BALICH WONDER STUDIO,150,5,2,"An exclusive event designed to unveil Ferrari‚Äôs latest sports car model to a select group of invited guests. The experience will begin with individual keynote speeches delivered by expert speakers, each offering unique insights into the design, performance, and innovation behind the new model. Then speakers will engage in a dynamic conversation, exchanging questions and perspectives to further explore the vehicle's distinctive features. All of this within 15-20 minutes. As a key benefit, guests will enjoy the privilege of being the very first to witness the unveiling of Ferrari‚Äôs newest masterpiece, experiencing it up close before its official public debut.",TBC,no,business,international,onsite,,productLaunch,no,To be provided later,other,5/19/25 18:00,5/19/25 23:45,The Lana - Dorchester Collection Hotel,,Dubai,yes,,no,yes,no,,other,no,,"No tickets, invitations only",,,4/27/25 12:24,4/27/25 12:24,no,,,,,,0.0,,,,"Talib Aliyev
+talib.aliyev@balichws.com
++96653440958",,4/27/25 12:34,4/27/25 12:34,,
+219,Viral,Khandelwal,5,STERLING PERFUMES INDUSTRIES L.L.C.,1.00E+14,DIP,Dubai,Dubai,UAE,9.72E+11,k.viral@sterling.ae,Armaf Launch Event,,STERLING PERFUMES INDUSTRIES L.L.C.,200,21,0,STERLING PERFUMES INDUSTRIES L.L.C. is organizing a launch event for a perfume product. The event will be held at Raffles The Palm Dubai on 6th may 2025. The event will be attended by 200 guests. The event timings are 6 pm to 11 pm,No,no,"business, entertainment",international,onsite,"djEvents, music",productLaunch,no,"Viral Khandelwal
++971502714503
+k.viral@sterling.ae",other,5/6/25 18:01,5/6/25 23:01,Raffles The Palm Dubai,GRAND SALON MAXIMILIAN,Dubai,yes,,yes,no,no,No,no,,,,,,4/28/25 14:38,4/28/25 14:38,no,,,dj-background,,world-music,0.0,,,,"Viral Khandelwal
++971502714503
+k.viral@sterling.ae",,4/28/25 14:48,4/28/25 14:48,,
+220,Charlotte,Dabney,5,GEM - Company: GEM Events & Consultancy,,"Company Address: Dubai Silicon Oasis, DDP, Building A1, Dubai, UAE Licence number: 39377 Company Number: 12423102 Registration Number: DSO-FZCO-37267",,Dubai,United Kingdom,7900151615,charlie@gemevents.co,People 1st MENA,https://eur.cvent.me/aQQPWE,Gem,150,0,25,"Join us on May 8 in Dubai for People 1st 2025, an essential gathering for Human Resources, talent, reward, L&D and global mobility leaders. This event is about embracing a People 1st approach amidst a rapidly changing workplace. Industry peers and thought leaders will come together to share insights and strategies to attract, engage, develop and retain top talent.",No,no,business,local,onsite,,"meeting, networking",no,"Shaun Griggs, shaun@gemevents.co, +44 7891 235908",other,5/8/25 8:30,5/9/25 0:00,Sheraton Grand Dubai,Starlight ballroom,"Sheraton Grand Hotel, Dubai No. 3 Sheikh Zayed Road, PO Box 123979 Dubai, United Arab Emirates",yes,,yes,no,yes,No,no,,,,,,4/30/25 6:11,4/30/25 6:11,yes,,,,,,0.0,,,,"Charlie Dabney, charlie@gemevents.co +447900 151615",,4/30/25 6:23,4/30/25 6:23,,
+221,Stella (Ly),Dao,5,"Infotrends USA, Inc. (European Alliance for Innovation)",,4 Metcalf Road,,"Westwood, MA",USA,4.22E+11,ly.dao@eai.eu,"14th EAI International Conference: ArtsIT, Interactivity & Game Creation",https://artsit.eai-conferences.org/2025/,European Alliance for Innovation,80,0,3,"ArtsIT 2025 is an international academic conference that brings together researchers, artists, practitioners, and scholars to explore the intersection of art, technology, and digital media. Covering topics like AI, immersive environments, gamification, and cultural heritage, the conference fosters interdisciplinary dialogue, creative innovation, and critical reflection on how technology shapes culture, society, and artistic expression.",,no,business,international,onsite,,conference,no,"EAI is the main organizer of the conference, we have local General Chair for this year's ArtsIT edition, his name is Dr. Ryad Soobhany (affiliation: Heriot-Watt University, Dubai, UAE)  - r.soobhany@hw.ac.uk","artDesign, education, informationTechnology, science",11/7/25 8:30,11/9/25 17:30,"Heriot-Watt University Dubai, UAE",,"Dubai, UAE",no,,no,yes,yes,,no,yes,,"As this is an academic conference, we will be able to finalize and announce the registration fees only after the notification deadline as per standard practice. At that stage, we will have a clear view of the number of participating authors, which is essential for determining the appropriate fee structure.
+
+In the meantime, you may refer to the registration details from last year‚Äôs edition, held in Abu Dhabi for a general reference:
+https://artsit.eai-conferences.org/2024/registration/",,,8/15/25 0:00,10/31/25 0:00,no,,,,,,0.0,,,,"Veronika Kissova - veronika.kissova@eai.eu
+Stella (Ly) Dao - ly.dao@eai.eu
+Tel: +421 911 111 156",,5/2/25 8:35,5/2/25 8:35,,
+222,Daria,Koroleva,5,University of Wollongong in Dubai,,Knowledge Village,UOWD Building,Dubai,United Arab Emirates,558460698,DariaKoroleva@uowdubai.ac.ae,UOWD Film Festival 2025,,University of Wollongong in Dubai,100,0,0,"Event Details
+Venue: UOWD Campus, Lecture Theatre
+Expected number of participants: 80-100
+Submission Deadline: 28 September 2025
+Festival Date: 25 October 2025
+Timing: 18:00 ‚Äì 21:00
+About the Festival
+The UOWD x Media Team Film Festival returns for its third edition, building on the success of the previous two events organized by the University of Wollongong in Dubai (UOWD) and the Media Department.. This festival is designed to showcase and celebrate the creative talents of students both within Dubai and internationally, through the production of short films and advertising shorts.
+In today‚Äôs digital landscape, telling stories through screens has become easier than ever, with platforms like YouTube, TikTok, Instagram, and the accessibility of smartphones. However, the journey from casual content creator to filmmaker, director, producer, editor, or scriptwriter requires a deeper mastery of the craft. The festival provides students with the opportunity to make this leap, challenging them to work collaboratively in teams to produce professional-quality content that reflects their creativity and storytelling skills.",no,no,business,local,onsite,,exhibition,no,"Michael Livingston Mallory, 0581683323",other,10/25/25 18:00,10/25/25 21:00,UOWD Campus,,Dubai,yes,,yes,yes,no,no,no,,,,,,5/5/25 8:41,5/5/25 8:41,no,,,,,,0.0,,,,"Daria Koroleva, 0558460698",,5/5/25 12:44,5/5/25 12:44,,
+223,Kunal,Shahani,6,AMIT Retail,,Al Seef,,dubai,United Arab Emirates,585746723,kunal.shahani@amitretail.com,Jimmy launch Event,,AMIT Retail,140,3,4,Brand launch event inviting all the retailers and jimmy guest including influencer,no,no,business,local,onsite,,productLaunch,no,Mr. Abdul Aziz,other,5/15/25 18:30,5/15/25 22:30,Sofitel Palm,,Dubai,yes,,yes,no,no,,no,,,,,,5/6/25 14:06,5/6/25 14:06,no,,,,,,0.0,,,,Ayesha Shaheen,,5/6/25 18:22,5/6/25 18:22,,
+224,Heather,McGregor,5,Heriot Watt University,,KNOWLEDGE PARK,,Dubai,United Arab Emirates,97145717000,h.mcgregor@hw.ac.uk,1st Conference of the International Social Capital Association‚Äô,,Heriot Watt University,300,0,20,"This conference will bring together leading scholars, experts, and stakeholders for four days of insightful discussions, groundbreaking research presentations, and collaborative networking opportunities.","Bob Putman, Raj Chetty, Beate Volcker",no,business,international,onsite,,conference,no,"Heather McGregor
+h.mcgregor@hw.ac.uk
+971 522 588 989",education,3/26/26 9:00,3/29/26 17:00,Heriot Watt University,,Dubai,yes,,no,yes,yes,Possibly,no,yes,,"Regular Early	AED 2295
+Regular Late	AED 3000
+Members Early	AED 1835
+Members Late	AED 2570
+Students Early	AED 1285
+Students Late	AED 1650
+Student Members Early AED 920
+Student Members Late	AED 1285",Not sure yet,5.0,9/1/25 0:00,12/31/25 0:00,yes,,,,,,0.0,,,,"Katie Dou
+Katie.dou@hw.ac.uk
+971 525 988 566",,5/7/25 10:15,5/7/25 10:15,,
+225,Mousa,Wakileh,4,U.S. Soybean Export Council,,87 Queen Rania St.,,Amman,Jordan,9.63E+11,mwakileh@ct.ussec.org,USSEC‚Äôs 9th Regional Dairy Nutrition Conference ‚Äì MENA,,U.S. Soybean Export Council,120,0,3,"USSEC's 9TH Regional Dairy Nutrition Conference - MENA which will be held in Dubai at Grosvenor House Dubai - UAE during the period Friday, June 27th through Tuesday, July 1st, 2025. 120 participants from the major dairy producers and feed millers are expected to attend the conference. Participants will be from the Middle East, North Africa, and Turkey.",No,no,business,international,onsite,,conference,no,"Mousa Wakileh, mwakileh@ct.ussec.org,+962795558384",other,6/26/25 13:00,6/30/25 13:00,Grosvenor House,Windsor Ballroom,Dubai,no,,yes,yes,yes,No,no,,,,,,5/7/25 7:22,5/7/25 7:22,yes,,,,,,0.0,,,,"Mousa Wakileh, mwakileh@ct.ussec.org,+962795558384",,5/7/25 12:11,5/7/25 12:11,,
+226,Heriot Watt University,Dubai,5,Heriot Watt University,,Knowledge Village,,Dubai,United Arab Emirates,509455910,z.samad@hw.ac.uk,Mastering SAP S4 Hana - A short Course,,Heriot-Watt University Dubai Campus,30,2,2,A short course for students to gain hands on experience and certification in SAP S4 Hana,No,no,business,regional,online,,meeting,no,"Dr. Zakiya Abdul Samad,
+z.samad@hw.ac.uk,
+0509455910",education,5/26/25 14:25,6/6/25 14:25,Online,,Dubai,no,,no,no,no,,no,yes,,"AED 1,600 (Subsidised fees for students)",20 - 30,0.0,5/16/25 0:00,5/25/25 0:00,no,,,,,,0.0,,,,"Dr. Zakiya Abdul Samad
+z.samad@hw.ac.uk,
+0509455910",,5/15/25 10:27,5/15/25 10:27,,
+227,Sally,Mendoza,4,Maxsale Solutions,1.00E+14,Creative City,,Fujairah,UAE,9.72E+11,sally@maxsalesolutions.com,Autodesk Middle East Industry Summit,,Maxsale Solutions,200,0,10,It is a conference for the partners and distributors of Autodesk in the Middle East. There is a possible awarding ceremony as part of the summit.,No,no,business,regional,onsite,,"conference, summit, networking, meeting",yes,"Peter Heredia, peter@maxsalesolutions.com,  +971 50 655 0196",informationTechnology,6/24/25 9:00,6/25/25 18:00,Grosvenor House Dubai,"Windsor Ballroom / Possible but not yet sure are breakout rooms (Eton, Henry, Bray)",Dubai,no,,yes,no,yes,No,yes,no,,,,,5/19/25 7:55,5/19/25 7:55,yes,,,,,,0.0,,,,"Peter Heredia, peter@maxsalesolutions.com,  +971 50 655 0196",,5/19/25 8:19,5/19/25 8:19,,

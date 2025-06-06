@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Asus/Documents/Projects/Mlflow_permit_price_prediction/src/mlruns/160179388424958933/2aa520d4b7654d1f89c06413fe9247aa/artifacts
+end_time: 1749067186537
+entry_point_name: ''
+experiment_id: '160179388424958933'
+lifecycle_stage: active
+run_id: 2aa520d4b7654d1f89c06413fe9247aa
+run_name: stately-dove-856
+run_uuid: 2aa520d4b7654d1f89c06413fe9247aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749067186510
+status: 3
+tags: []
+user_id: Asus

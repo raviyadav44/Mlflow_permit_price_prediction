@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1749070198933
+current_stage: None
+description: null
+last_updated_timestamp: 1749070198933
+name: price_prediction_rf
+run_id: ec74a8d0619c4728a2d020b602b94513
+run_link: null
+source: file:///C:/Users/Asus/Documents/Projects/Mlflow_permit_price_prediction/src/mlruns/701911808985339877/ec74a8d0619c4728a2d020b602b94513/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Asus/Documents/Projects/Mlflow_permit_price_prediction/src/mlruns/701911808985339877/ec74a8d0619c4728a2d020b602b94513/artifacts/model
+user_id: null
+version: 3

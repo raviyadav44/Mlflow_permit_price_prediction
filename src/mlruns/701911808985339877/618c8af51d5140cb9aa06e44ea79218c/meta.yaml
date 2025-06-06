@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Asus/Documents/Projects/Mlflow_permit_price_prediction/src/mlruns/701911808985339877/618c8af51d5140cb9aa06e44ea79218c/artifacts
+end_time: 1749069993715
+entry_point_name: ''
+experiment_id: '701911808985339877'
+lifecycle_stage: active
+run_id: 618c8af51d5140cb9aa06e44ea79218c
+run_name: fearless-shoat-861
+run_uuid: 618c8af51d5140cb9aa06e44ea79218c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749069956240
+status: 3
+tags: []
+user_id: Asus
